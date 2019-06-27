@@ -1,0 +1,411 @@
+artist|rank|src|title
+Animal Collective|1|metacritic_ye2009|Merriweather Post Pavilion 
+Raekwon|2|metacritic_ye2009|Only Built 4 Cuban Linx... Pt. II 
+Baroness|3|metacritic_ye2009|Blue Record 
+Sunn O)))|4|metacritic_ye2009|Monoliths & Dimensions 
+Brad Paisley|5|metacritic_ye2009|American Saturday Night 
+Amadou & Mariam|6|metacritic_ye2009|Welcome To Mali 
+The Antlers|7|metacritic_ye2009|Hospice 
+Grizzly Bear|8|metacritic_ye2009|Veckatimest 
+Mount Eerie|9|metacritic_ye2009|Wind's Poem 
+Manic Street Preachers|10|metacritic_ye2009|Journal For Plague Lovers 
+Dirty Projectors|11|metacritic_ye2009|Bitte Orca 
+Miranda Lambert|12|metacritic_ye2009|Revolution 
+Converge|13|metacritic_ye2009|Axe To Fall 
+Maxwell|14|metacritic_ye2009|BLACKsummers'night 
+The Felice Brothers|15|metacritic_ye2009|Yonder Is The Clock 
+Levon Helm|16|metacritic_ye2009|Electric Dirt 
+Tinariwen|17|metacritic_ye2009|Imidiwan: Companions 
+Super Furry Animals|18|metacritic_ye2009|Dark Days/Light Years 
+DM Stith|19|metacritic_ye2009|Heavy Ghost 
+The xx|20|metacritic_ye2009|xx 
+The Clientele|21|metacritic_ye2009|Bonfires On The Heath 
+UGK|22|metacritic_ye2009|UGK 4 Life 
+Wild Beasts|23|metacritic_ye2009|Two Dancers 
+Todd Snider|24|metacritic_ye2009|The Excitement Plan 
+Japandroids|25|metacritic_ye2009|Post-Nothing 
+Brother Ali|26|metacritic_ye2009|Us 
+Allen Toussaint|27|metacritic_ye2009|The Bright Mississippi 
+Yoko Ono Plastic Ono Band|28|metacritic_ye2009|Between My Head and the Sky 
+DJ Quik & Kurupt|29|metacritic_ye2009|BlaQKout 
+Fuck Buttons|30|metacritic_ye2009|Tarot Sport 
+Mountains|31|metacritic_ye2009|Choral 
+The-Dream|32|metacritic_ye2009|Love vs Money 
+Rosanne Cash|33|metacritic_ye2009|The List 
+Zu|34|metacritic_ye2009|Carboniferous 
+Taken By Trees|35|metacritic_ye2009|East Of Eden 
+Nosaj Thing|36|metacritic_ye2009|Drift 
+Mirah|37|metacritic_ye2009|(a)spera 
+Mastodon|38|metacritic_ye2009|Crack The Skye 
+James Blackshaw|39|metacritic_ye2009|The Glass Bead Game 
+Phoenix|40|metacritic_ye2009|Wolfgang Amadeus Phoenix 
+Bill Callahan|41|metacritic_ye2009|Sometimes I Wish We Were An Eagle 
+Atlas Sound|42|metacritic_ye2009|Logos 
+Lightning Bolt|43|metacritic_ye2009|Earthly Delights 
+Pissed Jeans|44|metacritic_ye2009|King Of Jeans 
+Steve Earle|45|metacritic_ye2009|Townes 
+Justin Townes Earle|46|metacritic_ye2009|Midnight At The Movies 
+Yeah Yeah Yeahs|47|metacritic_ye2009|It's Blitz 
+The Horrors|48|metacritic_ye2009|Primary Colours 
+Buddy & Julie Miller|49|metacritic_ye2009|Written In Chalk 
+Fever Ray|50|metacritic_ye2009|Fever Ray 
+Kanye West|1|metacritic_ye2010|My Beautiful Dark Twisted Fantasy
+Janelle Monae|2|metacritic_ye2010|The ArchAndroid (Suites II and III)
+Jamey Johnson|3|metacritic_ye2010|The Guitar Song
+Big Boi|4|metacritic_ye2010|Sir Lucious Left Foot: The Son of Chico Dusty
+Ali Farka Toure And Toumani Diabate|5|metacritic_ye2010|Ali & Toumani
+Bilal|6|metacritic_ye2010|Airtight's Revenge
+Marc Ribot|7|metacritic_ye2010|Silent Movies
+Robyn|8|metacritic_ye2010|Body Talk
+Arcade Fire|9|metacritic_ye2010|The Suburbs
+Ghostface Killah|10|metacritic_ye2010|Apollo Kids
+Sam Amidon |11|metacritic_ye2010|I See The Sign
+Deerhunter|12|metacritic_ye2010|Halcyon Digest
+Flying Lotus|13|metacritic_ye2010|Cosmogramma
+Kylesa|14|metacritic_ye2010|Spiral Shadow
+The Roots|15|metacritic_ye2010|How I Got Over
+Konono No. 1|16|metacritic_ye2010|Assume Crash Position
+Joanna Newsom|17|metacritic_ye2010|Have One On Me
+The National|18|metacritic_ye2010|High Violet
+Ariel Pink's Haunted Graffiti|19|metacritic_ye2010|Before Today
+LCD Soundsystem|20|metacritic_ye2010|This Is Happening
+Sleigh Bells|21|metacritic_ye2010|Treats
+Jazmine Sullivan|22|metacritic_ye2010|Love Me Back
+Jason Moran|23|metacritic_ye2010|Ten
+Twin Shadow|24|metacritic_ye2010|Forget
+Paul Weller|25|metacritic_ye2010|Wake Up The Nation
+Erykah Badu|26|metacritic_ye2010|New Amerykah Part Two: Return of the Ankh
+Grinderman|27|metacritic_ye2010|Grinderman 2
+Swans|28|metacritic_ye2010|My Father Will Guide Me Up a Rope to the Sky
+The Walkmen|29|metacritic_ye2010|Lisbon
+These New Puritans|30|metacritic_ye2010|Hidden
+Shining|31|metacritic_ye2010|Blackjazz
+Caribou|32|metacritic_ye2010|Swim
+Justin Townes Earle|33|metacritic_ye2010|Harlem River Blues
+Pantha du Prince|34|metacritic_ye2010|Black Noise
+Trash Talk|35|metacritic_ye2010|Eyes & Nines
+Circa Survive|36|metacritic_ye2010|Blue Sky Noise
+Jack Rose|37|metacritic_ye2010|Luck In The Valley 
+The Budos Band|38|metacritic_ye2010|The Budos Band III
+The Claudia Quintet|39|metacritic_ye2010|Royal Toast
+Beach House|40|metacritic_ye2010|Teen Dream
+Tom Waits|1|metacritic_ye2011|Bad As Me
+The Roots|2|metacritic_ye2011|undun
+The Weeknd|3|metacritic_ye2011|House of Balloons
+PJ Harvey|4|metacritic_ye2011|Let England Shake
+tUnE-yArDs|5|metacritic_ye2011|w h o k i l l
+Bon Iver|6|metacritic_ye2011|Bon Iver
+Nicolas Jaar|7|metacritic_ye2011|Space Is Only Noise
+Raphael Saadiq|8|metacritic_ye2011|Stone Rollin'
+Russian Circles|9|metacritic_ye2011|Empros
+Tim Hecker|10|metacritic_ye2011|Ravedeath, 1972
+Fucked Up|11|metacritic_ye2011|David Comes to Life
+Kate Bush|12|metacritic_ye2011|50 Words for Snow
+Iceage|13|metacritic_ye2011|New Brigade
+Paul Simon|14|metacritic_ye2011|So Beautiful or So What
+Fleet Foxes|15|metacritic_ye2011|Helplessness Blues
+Wild Beasts|16|metacritic_ye2011|Smother
+The Field|17|metacritic_ye2011|Looping State of Mind
+Gillian Welch|18|metacritic_ye2011|The Harrow and the Harvest 
+St. Vincent|19|metacritic_ye2011|Strange Mercy
+Destroyer|20|metacritic_ye2011|Kaputt
+The Black Keys|21|metacritic_ye2011|El Camino
+Beastie Boys|22|metacritic_ye2011|Hot Sauce Committee, Pt. 2 
+The Horrors|23|metacritic_ye2011|Skying
+Gang Gang Dance|24|metacritic_ye2011|Eye Contact
+Sepalcure|25|metacritic_ye2011|Sepalcure 
+Lykke Li|26|metacritic_ye2011|Wounded Rhymes
+Megafaun|27|metacritic_ye2011|Megafaun
+Mastodon|28|metacritic_ye2011|The Hunter
+Wild Flag|29|metacritic_ye2011|Wild Flag
+Wilco|30|metacritic_ye2011|The Whole Love
+TV on the Radio|31|metacritic_ye2011|Nine Types of Light
+Shabazz Palaces|32|metacritic_ye2011|Black Up
+Gil Scott-Heron and Jamie xx|33|metacritic_ye2011|We're New Here
+Elbow|34|metacritic_ye2011|Build a Rocket Boys!
+Earth|35|metacritic_ye2011|Angels of Darkness, Demons of Light, Vol. 1
+Laura Marling|36|metacritic_ye2011|A Creature I Don't Know
+Julianna Barwick|37|metacritic_ye2011|The Magic Place
+Atlas Sound|38|metacritic_ye2011|Parallax
+Abigail Washburn|39|metacritic_ye2011|City of Refuge
+Kurt Vile|40|metacritic_ye2011|Smoke Ring for My Halo
+Frank Ocean|1|metacritic_ye2012|Channel Orange
+Kendrick Lamar|2|metacritic_ye2012|good kid, m.A.A.d city
+Fiona Apple|3|metacritic_ye2012|The Idler Wheel Is Wiser than the Driver of the Screw and Whipping Cords Will Serve You More than Ropes Will Ever Do 
+Tame Impala|4|metacritic_ye2012|Lonerism
+Converge|5|metacritic_ye2012|All We Love We Leave Behind
+Swans|6|metacritic_ye2012|The Seer
+Bill Fay|7|metacritic_ye2012|Life Is People
+Deftones|8|metacritic_ye2012|Koi No Yokan
+Grizzly Bear|9|metacritic_ye2012|Shields
+Dr. John|10|metacritic_ye2012|Locked Down
+Andy Stott|11|metacritic_ye2012|Luxury Problems
+Miguel|12|metacritic_ye2012|Kaleidoscope Dream
+High on Fire|13|metacritic_ye2012|De Vermis Mysteriis
+Leonard Cohen|14|metacritic_ye2012|Old Ideas
+Jessie Ware|15|metacritic_ye2012|Devotion
+Killer Mike|16|metacritic_ye2012|R.A.P. Music
+El-P|17|metacritic_ye2012|Cancer 4 Cure
+Metz|18|metacritic_ye2012|METZ
+Ty Segall Band|19|metacritic_ye2012|Slaughterhouse
+Julia Holter|20|metacritic_ye2012|Ekstasis
+Japandroids|21|metacritic_ye2012|Celebration Rock
+Torche|22|metacritic_ye2012|Harmonicraft
+Screaming Females|23|metacritic_ye2012|Ugly
+Bob Dylan|24|metacritic_ye2012|Tempest
+Jack White|25|metacritic_ye2012|Blunderbuss
+Flying Lotus|26|metacritic_ye2012|Until the Quiet Comes
+The Men|27|metacritic_ye2012|Open Your Heart
+Cloud Nothings|28|metacritic_ye2012|Attack on Memory
+Father John Misty|29|metacritic_ye2012|Fear Fun
+Earth|30|metacritic_ye2012|Angels of Darkness, Demons of Light, Vol. 2
+Baroness|31|metacritic_ye2012|Yellow & Green
+Allo Darlin'|32|metacritic_ye2012|Europe
+Dan Deacon|33|metacritic_ye2012|America
+Amanda Palmer & The Grand Theft Orchestra|34|metacritic_ye2012|Theatre Is Evil
+Dexys|35|metacritic_ye2012|One Day I'm Going To Soar
+Saint Etienne|36|metacritic_ye2012|Words & Music by Saint Etienne
+Godspeed You! Black Emperor|37|metacritic_ye2012|'Allelujah! Don't Bend! Ascend!
+Patti Smith|38|metacritic_ye2012|Banga
+Sharon Van Etten|39|metacritic_ye2012|Tramp
+Actress|40|metacritic_ye2012|R.I.P.
+Deafheaven|1|metacritic_ye2013|Sunbather
+Julia Holter|2|metacritic_ye2013|Loud City Song
+My Bloody Valentine|3|metacritic_ye2013|m b v
+Jason Isbell|4|metacritic_ye2013|Southeastern
+Tim Hecker|5|metacritic_ye2013|Virgins
+Daft Punk|6|metacritic_ye2013|Random Access Memories
+Touche Amore|7|metacritic_ye2013|Is Survived By
+Laura Marling|8|metacritic_ye2013|Once I Was an Eagle
+Chance the Rapper|9|metacritic_ye2013|Acid Rap
+The Knife|10|metacritic_ye2013|Shaking the Habitual
+Beyonce|11|metacritic_ye2013|Beyonce
+William Tyler|12|metacritic_ye2013|Impossible Truth
+Guy Clark|13|metacritic_ye2013|My Favorite Picture of You
+Run the Jewels|14|metacritic_ye2013|Run the Jewels
+Patty Griffin|15|metacritic_ye2013|American Kid
+Phosphorescent|16|metacritic_ye2013|Muchacho
+Boards of Canada|17|metacritic_ye2013|Tomorrow's Harvest
+Parquet Courts|18|metacritic_ye2013|Light Up Gold
+The National|19|metacritic_ye2013|Trouble Will Find Me
+The Haxan Cloak|20|metacritic_ye2013|Excavation
+Kanye West|21|metacritic_ye2013|Yeezus
+Neko Case|22|metacritic_ye2013|The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You
+Mikal Cronin|23|metacritic_ye2013|MCII
+Pet Shop Boys|24|metacritic_ye2013|Electric
+Vampire Weekend|25|metacritic_ye2013|Modern Vampires of the City
+Bill Callahan|26|metacritic_ye2013|Dream River
+Danny Brown|27|metacritic_ye2013|Old
+Superchunk|28|metacritic_ye2013|I Hate Music
+Thundercat|29|metacritic_ye2013|Apocalypse
+Mountains|30|metacritic_ye2013|Centralia
+The Icarus Line|31|metacritic_ye2013|Slave Vows
+Janelle Monae|32|metacritic_ye2013|The Electric Lady
+Queens of the Stone Age|33|metacritic_ye2013|...Like Clockwork
+These New Puritans|34|metacritic_ye2013|Field of Reeds
+Thee Oh Sees|35|metacritic_ye2013|Floating Coffin
+Jon Hopkins|36|metacritic_ye2013|Immunity
+Yo La Tengo|37|metacritic_ye2013|Fade
+Earl Sweatshirt|38|metacritic_ye2013|Doris
+John Grant|39|metacritic_ye2013|Pale Green Ghosts
+Pissed Jeans|40|metacritic_ye2013|Honeys
+D'Angelo and the Vanguard|1|metacritic_ye2014|Black Messiah
+St. Vincent|2|metacritic_ye2014|St. Vincent
+Run the Jewels|3|metacritic_ye2014|Run the Jewels 2
+Swans|4|metacritic_ye2014|To Be Kind
+Pallbearer|5|metacritic_ye2014|Foundations of Burden
+Flying Lotus|6|metacritic_ye2014|You're Dead
+Rosanne Cash|7|metacritic_ye2014|The River & The Thread
+Perfume Genius|8|metacritic_ye2014|Too Bright
+Sharon Van Etten|9|metacritic_ye2014|Are We There
+Aphex Twin|10|metacritic_ye2014|Syro
+FKA twigs|11|metacritic_ye2014|LP1
+Wild Beasts|12|metacritic_ye2014|Present Tense
+Leonard Cohen|13|metacritic_ye2014|Popular Problems
+The War on Drugs|14|metacritic_ye2014|Lost in the Dream
+Steve Gunn|15|metacritic_ye2014|Way Out Weather
+Sun Kil Moon|16|metacritic_ye2014|Benji
+Angel Olsen|17|metacritic_ye2014|Burn Your Fire for No Witness
+Ex Hex|18|metacritic_ye2014|Rips
+Caribou|19|metacritic_ye2014|Our Love
+Ben Frost|20|metacritic_ye2014|A U R O R A
+Strand of Oaks|21|metacritic_ye2014|Heal
+The Bug|22|metacritic_ye2014|Angels & Devils
+Marissa Nadler|23|metacritic_ye2014|July
+Andy Stott|24|metacritic_ye2014|Faith in Strangers
+Lucinda Williams|25|metacritic_ye2014|Down Where the Spirit Meets the Bone
+Protomartyr|26|metacritic_ye2014|Under Color of Official Right 
+tUnE-yArDs|27|metacritic_ye2014|Nikki Nack
+Scott Walker and Sunn 0)))|28|metacritic_ye2014|Soused
+Fear of Men|29|metacritic_ye2014|Loom
+Manic Street Preachers|30|metacritic_ye2014|Futurology
+Against Me!|31|metacritic_ye2014|Transgender Dysphoria Blues
+The Soft Pink Truth|32|metacritic_ye2014|Why Do the Heathen Rage?
+Reigning Sound|33|metacritic_ye2014|Shattered
+Owen Pallett|34|metacritic_ye2014|In Conflict
+Future Islands|35|metacritic_ye2014|Singles
+Mac DeMarco|36|metacritic_ye2014|Salad Days
+These New Puritans|37|metacritic_ye2014|Field of Reeds
+Vashti Bunyan|38|metacritic_ye2014|Heartleap
+Freddie Gibbs and Madlib|39|metacritic_ye2014|Piñata
+The Antlers|40|metacritic_ye2014|Familiars
+Kendrick Lamar|1|metacritic_ye2015|To Pimp a Butterfly 
+Sufjan Stevens|2|metacritic_ye2015|Carrie & Lowell 
+Sleater-Kinney|3|metacritic_ye2015|No Cities to Love 
+Napalm Death|4|metacritic_ye2015|Apex Predator - Easy Meat 
+Joanna Newsom|5|metacritic_ye2015|Divers
+Courtney Barnett|6|metacritic_ye2015|Sometimes I Sit And Think, And Sometimes I Just Sit 
+Grimes|7|metacritic_ye2015|Art Angels
+Julia Holter|8|metacritic_ye2015|Have You in My Wilderness 
+Vince Staples|9|metacritic_ye2015|Summertime '06 
+Jason Isbell|10|metacritic_ye2015|Something More Than Free
+Bjork|11|metacritic_ye2015|Vulnicura
+Father John Misty|12|metacritic_ye2015|I Love You, Honeybear
+Jamie xx|13|metacritic_ye2015|In Colour
+Natalie Prass|14|metacritic_ye2015|Natalie Prass
+Donnie Trumpet & The Social Experiment|15|metacritic_ye2015|Surf
+Destroyer|16|metacritic_ye2015|Poison Season
+Protomartyr|17|metacritic_ye2015|The Agent Intellect
+Floating Points|18|metacritic_ye2015|Elaenia
+Deafheaven|19|metacritic_ye2015|New Bermuda
+Lightning Bolt|20|metacritic_ye2015|Fantasy Empire 
+Miguel|21|metacritic_ye2015|Wildheart
+Tame Impala|22|metacritic_ye2015|Currents
+Godspeed You! Black Emperor|23|metacritic_ye2015|Asunder, Sweet and Other Distress
+Baroness|24|metacritic_ye2015|Purple
+Speedy Ortiz|25|metacritic_ye2015|Foil Deer
+Young Fathers|26|metacritic_ye2015|White Men Are Black Men Too
+Wilco|27|metacritic_ye2015|Star Wars 
+Ryley Walker|28|metacritic_ye2015|Primrose Green
+Kurt Vile|29|metacritic_ye2015|b'lieve i'm goin' down...
+Panda Bear|30|metacritic_ye2015|Panda Bear Meets the Grim Reaper
+Prurient|31|metacritic_ye2015|Frozen Niagara Falls
+Bob Dylan|32|metacritic_ye2015|Shadows in the Night
+Dr. Dre|33|metacritic_ye2015|Compton
+John Grant|34|metacritic_ye2015|Grey Tickles, Black Pressure
+Mount Eerie|35|metacritic_ye2015|Sauna
+Deerhunter|36|metacritic_ye2015|Fading Frontier
+Colin Stetson and Sarah Neufeld|37|metacritic_ye2015|Never Were the Way She Was 
+Waxahatchee|38|metacritic_ye2015|Ivy Tripp
+Lady Lamb the Beekeeper|39|metacritic_ye2015|After
+Holly Herndon|40|metacritic_ye2015|Platform
+Nick Cave & The Bad Seeds|1|metacritic_ye2016|Skeleton Tree
+Beyonce|2|metacritic_ye2016|Lemonade
+Leonard Cohen|3|metacritic_ye2016|You Want It Darker
+A Tribe Called Quest|4|metacritic_ye2016|We Got It From Here...Thank You 4 Your Service
+Chance the Rapper|5|metacritic_ye2016|Coloring Book
+Solange|6|metacritic_ye2016|A Seat at the Table
+Drive-By Truckers|7|metacritic_ye2016|American Band
+Radiohead|8|metacritic_ye2016|A Moon Shaped Pool
+David Bowie|9|metacritic_ye2016|Blackstar
+Angel Olsen|10|metacritic_ye2016|My Woman
+Frank Ocean|11|metacritic_ye2016|Blonde
+Mitski|12|metacritic_ye2016|Puberty 2
+Bon Iver|13|metacritic_ye2016|22, A Million
+Sturgill Simpson|14|metacritic_ye2016|A Sailor's Guide to Earth
+Michael Kiwanuka|15|metacritic_ye2016|Love & Hate
+Maxwell|16|metacritic_ye2016|blackSUMMERS'night
+Car Seat Headrest|17|metacritic_ye2016|Teens of Denial
+The Dillinger Escape Plan|18|metacritic_ye2016|Dissociation
+Kendrick Lamar|19|metacritic_ye2016|untitled unmastered.
+Anderson .Paak|20|metacritic_ye2016|Malibu
+Paul Simon|21|metacritic_ye2016|Stranger to Stranger
+Danny Brown|22|metacritic_ye2016|Atrocity Exhibition
+Kevin Morby|23|metacritic_ye2016|Singing Saw
+Loretta Lynn|24|metacritic_ye2016|Full Circle
+Kate Tempest|25|metacritic_ye2016|Let Them Eat Chaos
+Jenny Hval|26|metacritic_ye2016|Blood Bitch
+Lambchop|27|metacritic_ye2016|FLOTUS
+Bob Mould|28|metacritic_ye2016|Patch the Sky
+Skepta|29|metacritic_ye2016|Konnichiwa
+Whitney|30|metacritic_ye2016|Light Upon the Lake
+case/lang/veirs|31|metacritic_ye2016|case/lang/veirs
+The Avalanches|32|metacritic_ye2016|Wildflower
+Lucinda Williams|33|metacritic_ye2016|The Ghosts of Highway 20
+Steve Gunn|34|metacritic_ye2016|Eyes on the Lines
+Anohni|35|metacritic_ye2016|Hopelessness
+School of Seven Bells|36|metacritic_ye2016|SVIIB
+The Rolling Stones|37|metacritic_ye2016|Blue & Lonesome
+Blood Orange|38|metacritic_ye2016|Freetown Sound
+Tim Hecker|39|metacritic_ye2016|Love Streams
+Tindersticks|40|metacritic_ye2016|The Waiting Room
+Kendrick Lamar|1|metacritic_ye2017|DAMN.
+Mount Eerie|2|metacritic_ye2017|A Crow Looked at Me
+Lorde|3|metacritic_ye2017|Melodrama
+Converge|4|metacritic_ye2017|The Dusk in Us
+Jlin|5|metacritic_ye2017|Black Origami
+Vince Staples|6|metacritic_ye2017|Big Fish Theory
+St. Vincent|7|metacritic_ye2017|Masseduction
+Fever Ray|8|metacritic_ye2017|Plunge
+Arca|9|metacritic_ye2017|Arca
+The Horrors|10|metacritic_ye2017|V
+SZA|11|metacritic_ye2017|CTRL
+Sampha|12|metacritic_ye2017|Process
+Magnetic Fields|13|metacritic_ye2017|50 Song Memoir
+Paul Weller|14|metacritic_ye2017|A Kind Revolution
+LCD Soundsystem|15|metacritic_ye2017|American Dream
+Algiers|16|metacritic_ye2017|The Underside of Power
+Protomartyr|17|metacritic_ye2017|Relatives in Descent
+The National|18|metacritic_ye2017|Sleep Well Beast
+The xx|19|metacritic_ye2017|I See You
+Moses Sumney|20|metacritic_ye2017|Aromanticism
+Sharon Jones & the Dap-Kings|21|metacritic_ye2017|Soul of a Woman
+Laura Marling|22|metacritic_ye2017|Semper Femina
+Father John Misty|23|metacritic_ye2017|Pure Comedy
+Aimee Mann|24|metacritic_ye2017|Mental Illness
+Tyler, The Creator|25|metacritic_ye2017|Flower Boy
+Laurel Halo|26|metacritic_ye2017|Dust
+Perfume Genius|27|metacritic_ye2017|No Shape
+Robert Plant|28|metacritic_ye2017|Carry Fire
+Kelela|29|metacritic_ye2017|Take Me Apart
+Japanese Breakfast|30|metacritic_ye2017|Soft Sounds From Another Planet
+Sheer Mag|31|metacritic_ye2017|Need to Feel Your Love
+Julien Baker|32|metacritic_ye2017|Turn Out the Lights
+Hurray for the Riff Raff|33|metacritic_ye2017|The Navigator
+Mark Lanegan Band|34|metacritic_ye2017|Gargoyle
+The Mountain Goats|35|metacritic_ye2017|Goths
+Jens Lekman|36|metacritic_ye2017|Life Will See You Now
+Stormzy|37|metacritic_ye2017|Gang Signs & Prayer
+Ty Segall|38|metacritic_ye2017|Ty Segall (2017)
+Randy Newman|39|metacritic_ye2017|Dark Matter
+Phoebe Bridgers|40|metacritic_ye2017|Stranger in the Alps
+Noname|1|metacritic_ye2018|Room 25
+Robyn|2|metacritic_ye2018|Honey
+Christine and the Queens|3|metacritic_ye2018|Chris
+Kacey Musgraves|4|metacritic_ye2018|Golden Hour
+Idles|5|metacritic_ye2018|Joy As an Act of Resistance
+Janelle Monáe|6|metacritic_ye2018|Dirty Computer
+Car Seat Headrest|7|metacritic_ye2018|Twin Fantasy (Face to Face) 
+Earl Sweatshirt|8|metacritic_ye2018|Some Rap Songs
+Hookworms|9|metacritic_ye2018|Microshift
+Mitski|10|metacritic_ye2018|Be the Cowboy
+Serpentwithfeet|11|metacritic_ye2018|Soil
+U.S. Girls|12|metacritic_ye2018|In a Poem Unlimited
+Young Fathers|13|metacritic_ye2018|Cocoa Sugar
+Amen Dunes|14|metacritic_ye2018|Freedom
+Kali Uchis|15|metacritic_ye2018|Isolation
+SOPHIE|16|metacritic_ye2018|Oil Of Every Pearl's Un-Insides
+Kamasi Washington|17|metacritic_ye2018|Heaven & Earth
+Low|18|metacritic_ye2018|Double Negative
+The 1975|19|metacritic_ye2018|A  Brief Inquiry into Online Relationships
+Pusha T|20|metacritic_ye2018|DAYTONA
+Screaming Females|21|metacritic_ye2018|All at Once
+DJ Koze|22|metacritic_ye2018|Knock Knock
+Deafheaven|23|metacritic_ye2018|Ordinary Corrupt Human Love
+Ezra Furman|24|metacritic_ye2018|Transangelic Exodus
+Let's Eat Grandma|25|metacritic_ye2018|I'm All Ears
+Neko Case|26|metacritic_ye2018|Hell-On
+Travis Scott|27|metacritic_ye2018|Astroworld
+Troye Sivan|28|metacritic_ye2018|Bloom
+Spiritualized|29|metacritic_ye2018|And Nothing Hurt
+Jeff Tweedy|30|metacritic_ye2018|Warm
+No Age|31|metacritic_ye2018|Snares Like a Haircut
+Kids See Ghosts|32|metacritic_ye2018|Kids See Ghosts
+Rolling Blackouts Coastal Fever|33|metacritic_ye2018|Hope Downs
+Cardi B|34|metacritic_ye2018|Invasion of Privacy
+Jon Hopkins|35|metacritic_ye2018|Singularity
+Stephen Malkmus & the Jicks|36|metacritic_ye2018|Sparkle Hard
+The Breeders|37|metacritic_ye2018|All Nerve
+Blood Orange|38|metacritic_ye2018|Negro Swan
+Eleanor Friedberger|39|metacritic_ye2018|Rebound
+Anna Calvi|40|metacritic_ye2018|Hunter
