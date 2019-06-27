@@ -7,8 +7,8 @@ import spotipy
 import spotipy.util as util
 
 # load simple de-duped albums from excel
-os.chdir("C:\\Users\\btanen\Desktop\\Projects\\album-sequence")
-# os.chdir("~/Desktop/Projects/album-sequence/")
+# os.chdir("C:\\Users\\btanen\Desktop\\Projects\\album-sequence")
+os.chdir("/Users/ben-tanen/Desktop/Projects/album-sequence/")
 albums_df = pd.read_excel("data/deduped-album-list.xlsx", sheet_name = "deduped", 
                           index_col = None, usecols = [0, 1], skiprows = 0)
 

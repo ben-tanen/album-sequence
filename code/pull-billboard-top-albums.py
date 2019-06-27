@@ -48,5 +48,5 @@ df = pd.concat(dfs)
 df.groupby("src").agg("count")
 
 # save
-df.to_csv("~/Desktop/Projects/album-sequence/data/raw/album-lists/billboard-top-albums.txt", sep = "|", index = False)
+df.to_csv("~/Desktop/Projects/album-sequence/data/raw/album-lists/billboard-top-albums.txt", sep = "|", index = False, encoding = "utf-8")
 
