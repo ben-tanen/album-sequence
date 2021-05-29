@@ -251,7 +251,6 @@ album_id|album_type|artist|artist_id|n_artists|n_tracks|name|popularity|release_
 2PjlaxlMunGOUvcRzlTbtE|album|Janelle Monáe|6ueGR6SWhUJfvEhqkvMsVs|1|14|Dirty Computer|69|2018-04-27
 36fPTydSJdDMoWngCzwtGM|single|Janelle Monáe|6ueGR6SWhUJfvEhqkvMsVs|1|5|"Metropolis Suite I ""The Chase"""|14|2007-08-25
 7MvSB0JTdtl1pSwZcgvYQX|album|Janelle Monáe|6ueGR6SWhUJfvEhqkvMsVs|1|18|The ArchAndroid|54|2010-05-17
-2sY9WYVH022ulyAYaqvXLW|album|Japandroids|2WcCoPxAWFNSCvsFPrpf30|1|8|Celebration Rock|42|2012-06-05
 3pukt8UD5RDPxUEdiOB7O2|album|Japandroids|2WcCoPxAWFNSCvsFPrpf30|1|8|Post-Nothing|33|2009-06-09
 6gYk1JlSSmlUZGs1Lef1BI|album|Jason Aldean|3FfvYsEGaIb52QPXhg4DcH|1|15|My Kinda Party|69|2010-11-02
 2uXHwdc2aTcUP2EhXKhPRu|album|Jason Aldean|3FfvYsEGaIb52QPXhg4DcH|1|15|Night Train|66|2012-10-16
