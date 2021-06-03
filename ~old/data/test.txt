@@ -1,0 +1,24 @@
+72olNArm75vOycSziqIX9Y	album	3 Doors Down	2RTUTCvo6onsAnheUk3aL9	1	12	Away From The Sun	70	2002-01-01
+4ycNE7y1rp5215g1kkqk1P	album	50 Cent	3q7HBObVc0L8jNeTe5Gofh	1	19	Get Rich Or Die Tryin'	72	2003-02-06
+2pidzXTaHV4WaIJYRxKDCH	album	50 Cent	3q7HBObVc0L8jNeTe5Gofh	1	22	The Massacre	75	2005
+3WvQpufOsPzkZvcSuynCf3	album	A Tribe Called Quest	09hVIj6vWgoCDtT03h8ZCa	1	16	We got it from Here... Thank You 4 Your service	60	2016-11-11
+0WMC1R1SgwLSLwiklZGIhI	album	Aaron Watson	5BKzvAPtNXnt0LwzGvKOH3	1	20	Red Bandana	55	2019-06-21
+7qVfz4UGONwEd5nQjj0ESN	album	AC/DC	711MCceyCBcFnzjGY4Q7Un	1	15	Black Ice	64	2008-10-20
+1ydnyXPdmHrWXqXDgtQCPf	album	Adele	4dpARuHxo51G3z768sgnrY	1	12	19	70	2008-01-28
+1azUkThwd2HfUDdeNeT147	album	Adele	4dpARuHxo51G3z768sgnrY	1	11	21	77	2011-01-19
+0K4pIOOsfJ9lK8OjrZfXzd	album	Adele	4dpARuHxo51G3z768sgnrY	1	11	25	75	2016-06-24
+0rwd3CfF5cJS46VB7kgBpG	album	Aimee Mann	3UpIbyXfGzmHG6TMH4dJEk	1	11	Mental Illness	38	2017-03-31
+55HdXJwG0d9iMaXgPrGmOg	album	Aimee Mann	3UpIbyXfGzmHG6TMH4dJEk	1	12	The Forgotten Arm	26	2005-05-03
+6kzoWb4UzvKYgbDfAwgaFq	album	Akon	0z4gvV4rjIZ9wHck67ucSV	1	12	Konvicted	66	2006-01-01
+3JnPJ0fjkTpGqd2kUBAsnK	album	Alabama Shakes	16GcWuvvybAoaHr0NqT8Eh	1	12	Boys & Girls	59	2012-04-10
+6TWqxofcKQaZ9gHI49G36P	album	Alabama Shakes	16GcWuvvybAoaHr0NqT8Eh	1	12	Sound & Color	62	2015-04-21
+2QBJCHNMYQC1cyhSXW0ygV	album	Alan Jackson	4mxWe1mtYIYfP040G38yvS	1	13	Drive	51	2002-01-11
+5Ap3F8CxjjsQKZGASDcHNA	album	Alanis Morissette	6ogn9necmbUdCppmNnGOdi	1	13	Jagged Little Pill (Remastered)	69	1995
+76prhNJNWdBGlYU19VXUrT	album	Algiers	58WFmcqNmejE2IpVIna43o	1	12	The Underside of Power	37	2017-06-23
+0QcGjmYjuZn4JpvJnMMXhN	album	"Ali Farka Touré	Toumani Diabaté"	"3mNygoyrEKLgo6sx0MzwOL	2nCACYdIndYchzX4bxLcTW"	2	12	Ali & Toumani	49	2009
+0zKjnOsXxs63unPR6TWoHq	album	Alice Cooper	3EhbVgyfGd7HkpsagwL9GS	1	9	School's Out	57	1972
+6KlxyxhXEDo1LdheFulN7h	album	Alicia Keys	3DiDSECUqqY1AuBP8qtaIa	1	17	As I Am (Expanded Edition)	72	2007-11-09
+6TqRKHLjDu5QZuC8u5Woij	album	Alicia Keys	3DiDSECUqqY1AuBP8qtaIa	1	15	The Diary Of Alicia Keys	72	2003-12-02
+3qqhNVbjLFNdLviBFrFwCa	album	Alicia Keys	3DiDSECUqqY1AuBP8qtaIa	1	13	Girl On Fire	57	2012-11-26
+1SLgJeTdzDAJLcDyQqoWnu	album	Alicia Keys	3DiDSECUqqY1AuBP8qtaIa	1	22	Songs In A Minor (Expanded Edition)	67	2001-06-26
+0Rxab8t0y7GlaTJTHX2wEN	album	Alicia Keys	3DiDSECUqqY1AuBP8qtaIa	1	14	The Element Of Freedom	68	2009-12-15

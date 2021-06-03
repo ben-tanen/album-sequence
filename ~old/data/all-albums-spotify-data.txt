@@ -1,0 +1,677 @@
+album_id|album_type|artist|artist_id|n_artists|n_tracks|name|popularity|release_date
+72olNArm75vOycSziqIX9Y|album|3 Doors Down|2RTUTCvo6onsAnheUk3aL9|1|12|Away From The Sun|70|2002-01-01
+4ycNE7y1rp5215g1kkqk1P|album|50 Cent|3q7HBObVc0L8jNeTe5Gofh|1|19|Get Rich Or Die Tryin'|72|2003-02-06
+2pidzXTaHV4WaIJYRxKDCH|album|50 Cent|3q7HBObVc0L8jNeTe5Gofh|1|22|The Massacre|75|2005
+3WvQpufOsPzkZvcSuynCf3|album|A Tribe Called Quest|09hVIj6vWgoCDtT03h8ZCa|1|16|We got it from Here... Thank You 4 Your service|60|2016-11-11
+0WMC1R1SgwLSLwiklZGIhI|album|Aaron Watson|5BKzvAPtNXnt0LwzGvKOH3|1|20|Red Bandana|55|2019-06-21
+7qVfz4UGONwEd5nQjj0ESN|album|AC/DC|711MCceyCBcFnzjGY4Q7Un|1|15|Black Ice|64|2008-10-20
+1ydnyXPdmHrWXqXDgtQCPf|album|Adele|4dpARuHxo51G3z768sgnrY|1|12|19|70|2008-01-28
+1azUkThwd2HfUDdeNeT147|album|Adele|4dpARuHxo51G3z768sgnrY|1|11|21|77|2011-01-19
+0K4pIOOsfJ9lK8OjrZfXzd|album|Adele|4dpARuHxo51G3z768sgnrY|1|11|25|75|2016-06-24
+0rwd3CfF5cJS46VB7kgBpG|album|Aimee Mann|3UpIbyXfGzmHG6TMH4dJEk|1|11|Mental Illness|38|2017-03-31
+55HdXJwG0d9iMaXgPrGmOg|album|Aimee Mann|3UpIbyXfGzmHG6TMH4dJEk|1|12|The Forgotten Arm|26|2005-05-03
+6kzoWb4UzvKYgbDfAwgaFq|album|Akon|0z4gvV4rjIZ9wHck67ucSV|1|12|Konvicted|66|2006-01-01
+3JnPJ0fjkTpGqd2kUBAsnK|album|Alabama Shakes|16GcWuvvybAoaHr0NqT8Eh|1|12|Boys & Girls|59|2012-04-10
+6TWqxofcKQaZ9gHI49G36P|album|Alabama Shakes|16GcWuvvybAoaHr0NqT8Eh|1|12|Sound & Color|62|2015-04-21
+2QBJCHNMYQC1cyhSXW0ygV|album|Alan Jackson|4mxWe1mtYIYfP040G38yvS|1|13|Drive|51|2002-01-11
+5Ap3F8CxjjsQKZGASDcHNA|album|Alanis Morissette|6ogn9necmbUdCppmNnGOdi|1|13|Jagged Little Pill (Remastered)|69|1995
+76prhNJNWdBGlYU19VXUrT|album|Algiers|58WFmcqNmejE2IpVIna43o|1|12|The Underside of Power|37|2017-06-23
+0QcGjmYjuZn4JpvJnMMXhN|album|"Ali Farka Touré|Toumani Diabaté"|"3mNygoyrEKLgo6sx0MzwOL|2nCACYdIndYchzX4bxLcTW"|2|12|Ali & Toumani|49|2009
+0zKjnOsXxs63unPR6TWoHq|album|Alice Cooper|3EhbVgyfGd7HkpsagwL9GS|1|9|School's Out|57|1972
+6KlxyxhXEDo1LdheFulN7h|album|Alicia Keys|3DiDSECUqqY1AuBP8qtaIa|1|17|As I Am (Expanded Edition)|72|2007-11-09
+6TqRKHLjDu5QZuC8u5Woij|album|Alicia Keys|3DiDSECUqqY1AuBP8qtaIa|1|15|The Diary Of Alicia Keys|72|2003-12-02
+3qqhNVbjLFNdLviBFrFwCa|album|Alicia Keys|3DiDSECUqqY1AuBP8qtaIa|1|13|Girl On Fire|57|2012-11-26
+1SLgJeTdzDAJLcDyQqoWnu|album|Alicia Keys|3DiDSECUqqY1AuBP8qtaIa|1|22|Songs In A Minor (Expanded Edition)|67|2001-06-26
+0Rxab8t0y7GlaTJTHX2wEN|album|Alicia Keys|3DiDSECUqqY1AuBP8qtaIa|1|14|The Element Of Freedom|68|2009-12-15
+6LJLRmAT69fL7I9Rf8hjcb|album|Amadou & Mariam|3KH7WsR2JZQ94Ik8SyabU6|1|16|Welcome To Mali|46|2008-11-17
+2H4G8AGta9p8yjgjVI9nZd|album|Amen Dunes|1jwOuEBcOKq0BeudSarbEM|1|11|Freedom|53|2018-03-30
+097eYvf9NKjFnv4xA9s2oV|album|Amy Winehouse|6Q192DXotxtaysaqNPy5yR|1|11|Back To Black|77|2006-01-01
+4H6NRX6bvkIJZIJdZSPq6Y|album|Anaïs Mitchell|7K5Lm5dxoEwEpOS0Fc3l3s|1|20|Hadestown|50|2010-04-26
+4VFG1DOuTeDMBjBLZT7hCK|album|Anderson .Paak|3jK9MiCrA42lLAdMGUZpwa|1|16|Malibu|68|2016-01-15
+37QhqwG2GFkVdlyRjvgKme|album|Andrea Bocelli|3EA9hVIzKfFiQI0Kikz2wo|1|14|My Christmas (Remastered)|32|2009-01-01
+1BzMONuUlgUnqOrg2aQeAY|album|Andy Stott|6BuDxEE5rfuYeyhxQsl53K|1|9|Faith in Strangers|43|2014-11-17
+6XpD4GhQq4olgxxgX6BXdv|album|Andy Stott|6BuDxEE5rfuYeyhxQsl53K|1|8|Luxury Problems|37|2012-10-29
+358elHWlgNqitp1lenb5Jn|album|Angel Olsen|6mKqFxGMS5TGDZI3XkT5Rt|1|16|Burn Your Fire For No Witness (Deluxe Edition)|52|2014-11-18
+5M8xQaQZuW2LZGVXZ3mlKN|album|Angel Olsen|6mKqFxGMS5TGDZI3XkT5Rt|1|10|MY WOMAN|58|2016-09-02
+5O9OXl9zAWMJTzawofxuan|album|Animal Collective|4kwxTgCKMipBKhSnEstNKj|1|11|Merriweather Post Pavilion|51|2009-01-20
+6oRuinkJdTge4hpTuClEF8|album|Aphex Twin|6kBDZFXuLrZgHnvmPu9NsG|1|12|Syro|52|2014-09-19
+1MQO4j8QExVgmnplbIodEU|album|Arca|4SQdUpG4f7UbkJG3cJ2Iyj|1|13|Arca|45|2017-04-07
+3DrgM5X3yX1JP1liNLAOHI|album|Arcade Fire|3kjuyTCjPG1WMFCiyc5IuB|1|16|The Suburbs|66|2010
+6EVYTRG1drKdO8OnIQBeEj|album|Ariana Grande|66CXWjxzNUsdJxJ2JdwvnR|1|15|My Everything (Deluxe)|81|2014-08-25
+1dO7qBlkQXYENJaHfK7h56|album|Ariel Pink|5H0YoDsPDi9fObFmJtTjfN|1|12|Before Today|49|2010-06-07
+5M3BrdaT0TV5SsYsM5PM8X|album|Ashanti|5rkVyNGXEgeUqKkB5ccK83|1|17|Ashanti|66|2002-01-01
+0w11HUk0hE4WZ95Bvp6vNI|album|Ashlee Simpson|4hqDqHtBlgxXpLXVYf7c8L|1|12|Autobiography|48|2004-01-01
+78guAsers0klWl6RwzgDLd|album|Audioslave|2ziB7fzrXBoh1HUPS6sVFn|1|14|Audioslave|74|2002-11-17
+3zXjR3y2dUWklKmmp6lEhy|album|Avril Lavigne|0p4nmQO2msCgU4IF37Wi3j|1|13|Let Go|75|2002-06-04
+6lqE05fiHWJVYYdMVJNj38|album|Avril Lavigne|0p4nmQO2msCgU4IF37Wi3j|1|17|The Best Damn Thing (Expanded Edition)|69|2007-04-17
+7851Vsjv3apS52sXUik6iF|album|Avril Lavigne|0p4nmQO2msCgU4IF37Wi3j|1|13|Under My Skin|66|2004
+0wvQovgaVU99eqw8n3g22S|album|Backstreet Boys|5rSXSAkZ67PYJSvpUpkOr7|1|12|Backstreet Boys|61|1996
+1IgRzhudBVPtta2jDVa1en|album|Barbra Streisand|7jmTilWYlKOuavFfmQAcu6|1|12|Partners|41|2014-09-10
+7540tn9HKPt2PbPPyR5dRP|album|Baroness|3KdXhEwbqFHfNfSk7L9E87|1|17|Blue Record (Deluxe Version)|42|2009-10-13
+25FRZSpdZCczTURlAcMm6r|album|Baroness|3KdXhEwbqFHfNfSk7L9E87|1|10|Purple|42|2015-12-18
+1vQYbqslni0jVfvaVK2lvx|album|Beastie Boys|03r4iKL2g2442PT9n2UKsx|1|16|Hot Sauce Committee (Pt. 2)|52|2011-05-03
+4FtOLTQqwnxpaABrJWYdBy|album|Ben Folds|55tif8708yyDQlSjh3Trdu|1|12|Rockin' The Suburbs|48|2001-09-11
+799qo6A5q4TXn9j3tVcc82|album|Ben Frost|6qEM4txXHvfMbOUOK9L7pl|1|9|A U R O R A|11|2014-05-27
+1gIC63gC3B7o7FfpPACZQJ|album|Beyoncé|6vWDO969PvNqNYHIOW5v0m|1|14|4|77|2011
+12tx9VsfzycouyP119XTjJ|album|Beyoncé|6vWDO969PvNqNYHIOW5v0m|1|13|B'Day|39|2006-09-05
+2UJwKSBUz6rtW4QLK74kQu|album|Beyoncé|6vWDO969PvNqNYHIOW5v0m|1|20|BEYONCÉ [Platinum Edition]|77|2014-11-24
+6oxVabMIqCMJRYN1GqR3Vf|album|Beyoncé|6vWDO969PvNqNYHIOW5v0m|1|15|Dangerously In Love|72|2003-06-24
+39P7VD7qlg3Z0ltq60eHp7|album|Beyoncé|6vWDO969PvNqNYHIOW5v0m|1|11|I AM...SASHA FIERCE|73|2008-11-14
+7dK54iZuOxXFarGhXwEXfF|album|Beyoncé|6vWDO969PvNqNYHIOW5v0m|1|13|Lemonade|83|2016-04-23
+0GZMsKdDsbNhxvM1VaxB0U|album|Big Boi|2ht3wxeT69CzyKFChNnNAB|1|15|Sir Lucious Left Foot...The Son Of Chico Dusty|43|2010-01-01
+1j2x7FJXTgUT0X5hZ8TDXE|album|Big Sean|0c173mlxpT3dSFRgMO8XPh|1|12|Dark Sky Paradise|71|2015-02-24
+0XAIjjN5qxViVS0Y5fYkar|album|Big Sean|0c173mlxpT3dSFRgMO8XPh|1|14|I Decided.|74|2017-02-03
+5BP6rxVKYIUCXR7hTR2t0W|album|Bilal|4jCbgl5Dmt3uOh8WRQfpPs|1|11|Airtight's Revenge|23|2010-09-14
+4F0RpVCIERK2p5IUkogYuD|album|Bill Fay|3Wok7FweiLrlia97LMCJh1|1|12|Life Is People|36|2012-08-21
+0S0KGZnfBGSIssfF54WSJh|album|Billie Eilish|6qqNVTkY8uBg9cP3Jd7DAH|1|14|WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?|100|2019-03-29
+2Rh2JyaBjJwPMFR9Dl60nV|album|Billy Ray Cyrus|60rpJ9SgigSd16DOAG7GSa|1|10|Some Gave All|60|1992
+1ttnHZ0HVGMSMTJdZZ7kYK|album|Björk|7w29UYBi0qsHi5RTcv3lmA|1|9|Vulnicura|34|2015-01-20
+6MzrSTAQdDR92tHLLAhYp0|album|Blake Shelton|1UTPBmNbXNTittyMJrNkvw|1|14|Based on a True Story... (Deluxe Edition)|65|2013-03-26
+4hBTxv4QRPePXCFcEI7Vjp|album|blink-182|6FBDaR13swtiWwGhX1WQsP|1|16|blink-182|70|2003-11-01
+159ORixBSSemxiualv1Woj|album|Boards of Canada|2VAvhf61GgLYmC6C8anyX1|1|17|Tomorrow's Harvest|49|2013-06-10
+4NP1rhnsPdYpnyJP0p0k0L|album|Bob Dylan|74ASZWbe4lXaubB36ztrGX|1|14|Blonde On Blonde|57|1966-06-20
+4WD4pslu83FF6oMa1e19mF|album|Bob Dylan|74ASZWbe4lXaubB36ztrGX|1|10|Blood On The Tracks|63|1975-01-17
+1lPoRKSgZHQAYXxzBsOQ7v|album|Bob Dylan|74ASZWbe4lXaubB36ztrGX|1|11|Bringing It All Back Home|61|1965-03-22
+6YabPKtZAjxwyWbuO9p4ZD|album|Bob Dylan|74ASZWbe4lXaubB36ztrGX|1|9|Highway 61 Revisited|65|1965-08-30
+3LnS0XKSzd2TFoagESGUw3|album|Bob Dylan|74ASZWbe4lXaubB36ztrGX|1|10|Tempest|41|2012-09-10
+4jKeipwuUTjlx9USNYdhZn|compilation|Bob Marley & The Wailers|2QsynagSdAqZj3U9HgDzjD|1|16|Legend - The Best Of Bob Marley And The Wailers|59|2002-01-01
+1PgfRdl3lPyACfUGH4pquG|album|Bon Iver|4LEiUm1SRbFMgfqnQTwUbQ|1|10|22, A Million|68|2016-09-30
+1JlvIsP2f6ckoa62aN7kLn|album|Bon Iver|4LEiUm1SRbFMgfqnQTwUbQ|1|10|Bon Iver|66|2011-06-21
+0kBfgEilUFCMIQY5IOjG4t|album|Bon Jovi|58lV9VcRSjABbAbfWS6skp|1|10|Slippery When Wet|79|1986-01-01
+0GCQzPEkcFv8bR90sJf41x|album|Brad Paisley|13YmWQJFwgZrd4bf5IjMY4|1|15|American Saturday Night|58|2009-06-30
+5kdGRd8zK6m135zrjwG6il|album|Brantley Gilbert|5q8HGNo0BjLWaTAhRtbwxa|1|19|Just As I Am (Platinum Edition)|66|2015-01-01
+4Uc6YCjpfyjj02rZfg2EUv|album|Brian Wilson|4Q82S0VzF8qlCb4PnSDurj|1|18|Smile|39|2004-09-27
+3WNxdumkSMGMJRhEgK80qx|album|Britney Spears|26dSoYclwsYLMAKD3tpOr4|1|16|...Baby One More Time (Digital Deluxe Version)|71|1999-01-12
+5ax3GTsfX5uCUaNgnJsSG5|album|Britney Spears|26dSoYclwsYLMAKD3tpOr4|1|15|Britney (Digital Deluxe Version)|63|2001-10-31
+2tve5DGwub1TtbX1khPX5j|album|Britney Spears|26dSoYclwsYLMAKD3tpOr4|1|15|Circus (Deluxe Version)|70|2009-01-06
+0z7pVBGOD7HCIB7S8eLkLI|album|Britney Spears|26dSoYclwsYLMAKD3tpOr4|1|13|In The Zone|71|2003-11-13
+0PMasrHdpaoIRuHuhHp72O|album|Bruce Springsteen|3eqjTLE0HfPfh78zjh6TqT|1|12|Born In The U.S.A.|75|1984-06-04
+43YIoHKSrEw2GJsWmhZIpu|album|Bruce Springsteen|3eqjTLE0HfPfh78zjh6TqT|1|8|Born To Run|68|1975-08-25
+6BhqPpIgY83rqoZ2L78Lte|album|Bruce Springsteen|3eqjTLE0HfPfh78zjh6TqT|1|13|Western Stars|74|2019-06-14
+4PgleR09JVnm3zY1fW3XBA|album|Bruno Mars|0du5cEVh5yTK9QJze8zA0C|1|9|24K Magic|81|2016-11-17
+1uyf3l2d4XYwiEqAb7t7fX|album|Bruno Mars|0du5cEVh5yTK9QJze8zA0C|1|10|Doo-Wops & Hooligans|79|2010-10-05
+58ufpQsJ1DS5kq4hhzQDiI|album|Bruno Mars|0du5cEVh5yTK9QJze8zA0C|1|10|Unorthodox Jukebox|80|2012-12-07
+6eZdwrhB97A3EYx9QppGfl|album|Bryson Tiller|2EMAnMvWE2eb56ToJVfCWs|1|14|T R A P S O U L|78|2015-10-02
+2vD3zSQr8hNlg0obNel4TE|album|Camila Cabello|4nDoRrQiYLoBzwC5BhVJzF|1|11|Camila|82|2018-01-12
+26DseQO366JfXwIP7dIgQj|album|Car Seat Headrest|5PbpKlxQE0Ktl5lcNABoFf|1|12|Teens of Denial|58|2016-05-20
+20U1UWeGcGq7JVW0tf8yfH|album|Car Seat Headrest|5PbpKlxQE0Ktl5lcNABoFf|1|10|Twin Fantasy|56|2018-02-16
+4KdtEKjY3Gi0mKiSdy96ML|album|Cardi B|4kYSro6naA4h99UJvo89HB|1|13|Invasion of Privacy|84|2018-04-06
+5r4nz5LZHeGUcZCrWbfWkx|album|Caribou|4aEnNH9PuU1HF3TsZTru54|1|10|Our Love|46|2014-10-07
+12n11cgnpjXKLeqrnIERoS|album|Carole King|319yZVtYM9MBGqmSQnMyY6|1|12|Tapestry|69|1971
+7atJn49QvtOLiFxhQd2hp9|album|Carrie Underwood|4xFUf1FHVy696Q1JQZMTRj|1|14|Blown Away|62|2012-05-01
+5HwzpaqYOZABPnmvl5JYFX|album|Carrie Underwood|4xFUf1FHVy696Q1JQZMTRj|1|13|Carnival Ride|58|2007-10-22
+3iLrVuA1k7onNmZTuUQH4u|album|Carrie Underwood|4xFUf1FHVy696Q1JQZMTRj|1|13|Play On|56|2009
+0kys2jaKAiDPfNBd4z7LAg|album|Carrie Underwood|4xFUf1FHVy696Q1JQZMTRj|1|14|Some Hearts|67|2005-11-14
+5QN7mdrNquAGx37ixtQnLO|album|Céline Dion|4S9EykWXhStSc15wEx8QFK|1|17|A New Day Has Come|61|2002
+55UPmpHLvZKGgTPUD1woES|album|Céline Dion|4S9EykWXhStSc15wEx8QFK|1|16|Falling Into You|70|1996-02-28
+71QyofYesSsRMwFOTafnhB|album|Chance the Rapper|1anyVhU62p31KFi8MEzkbf|1|14|Coloring Book|77|2016-05-27
+0z3eL2W3UZVcBiOWwe461h|compilation|Chicago|3iDD7bnsjL9J4fO298r0L0|1|39|The Very Best Of: Only The Beginning|46|2002-07-02
+49gaz5rhWWgqCw61M9700v|album|Chris Brown|7bXgB6jMjp9ATFy66eO08Z|1|18|Chris Brown (Expanded Edition)|71|2005
+6p5pW2WwgVECsOhrXPAyhI|album|Chris Brown|7bXgB6jMjp9ATFy66eO08Z|1|18|Exclusive (Expanded Edition)|69|2007-11-06
+7lxHnls3yQNl8B9bILmHj7|album|Chris Stapleton|4YLtscXsxbVgi031ovDDdh|1|14|Traveller|76|2015-05-04
+2USigX9DhGuAini71XZEEK|album|Christina Aguilera|1l7ZsJRRS8wlW3WfJfPfNS|1|20|Stripped|71|2002-07-19
+08LcAgUEeFV4tM3WPPpbYh|album|Christine and the Queens|04vj3iPUiVh5melWr0w3xT|1|23|Chris|61|2018-09-21
+4hQtcgvaybCqBsTrfiL1jC|album|Chuck Berry|293zczrfYafIItmnmM3coR|1|28|The Great Twenty-Eight|55|1982-01-01
+71gUhKYZIWmmjqAHlY4Br3|album|Ciara|2NdeV5rLm47xAvogXrYhJX|1|13|Goodies|70|2004-09-24
+0gX4aTUhxNbdFTJBXX7OrH|album|Colbie Caillat|6aZyMrc4doVtZyKNilOmwu|1|12|Coco|64|2007-01-01
+3cfAM8b8KqJRoIzt3zLKqw|album|Coldplay|4gzpq5DPGxSnKTe4SA8HAU|1|11|A Head Full of Dreams|77|2015-12-04
+0RHX9XECH8IVI3LNgWDpmQ|album|Coldplay|4gzpq5DPGxSnKTe4SA8HAU|1|11|A Rush of Blood to the Head|79|2002-08-08
+2G4AUqfwxcV1UdQjm2ouYr|album|Coldplay|4gzpq5DPGxSnKTe4SA8HAU|1|9|Ghost Stories|75|2014-05-19
+2R7iJz5uaHjLEVnMkloO18|album|Coldplay|4gzpq5DPGxSnKTe4SA8HAU|1|14|Mylo Xyloto|74|2011-10-24
+1CEODgTmTwLyabvwd7HBty|album|Coldplay|4gzpq5DPGxSnKTe4SA8HAU|1|10|Viva La Vida or Death and All His Friends|72|2008-05-26
+4E7bV0pzG0LciBSWTszra6|album|Coldplay|4gzpq5DPGxSnKTe4SA8HAU|1|13|X&Y|76|2005-06-07
+28DI3wfImTqTrHkPiOa0PI|album|Converge|7kHzfxMLtVHHb523s43rY1|1|17|All We Love We Leave Behind (Deluxe Edition)|39|2012-10-09
+0sAtQQ4Y2zewIIxFidHbVR|album|Converge|7kHzfxMLtVHHb523s43rY1|1|13|Axe To Fall|39|2009-10-20
+23cl7dningjCbwiNpOyFMP|album|Converge|7kHzfxMLtVHHb523s43rY1|1|13|The Dusk In Us|43|2017-11-03
+6PosCDToF5fOdEjTI5PsDX|album|Courtney Barnett|4OOlG5eBXSkSAAEeKjJb5Y|1|11|Sometimes I Sit and Think, and Sometimes I Just Sit|50|2015-03-24
+3Nyjm9NBEdiaiWr2BEaV46|album|Creed|43sZBwHjahUvgbx1WNIkIz|1|12|Human Clay|66|1999-01-01
+2ENlJXygQX6en4iziijet6|album|Creed|43sZBwHjahUvgbx1WNIkIz|1|11|Weathered|67|2001-01-01
+4m2880jivSbbyEGAKfITCa|album|Daft Punk|4tZwfgrHOc3mvqYlEYSvVi|1|13|Random Access Memories|75|2013-05-17
+5Hfbag0SsHxafx1SySFSX6|album|D'Angelo|336vr2M3Va0FjyvB55lJEd|1|12|Black Messiah|58|2014-12-15
+3e7vtKJ3m1zVh38VGq2g3H|album|Danny Brown|7aA592KWirLsnfb5ulGWvU|1|15|Atrocity Exhibition|56|2016-09-27
+7MEQdKzqoG2QJYcT2XEKsW|album|Daughtry|5P5FTygHyx2G57oszR3Wot|1|12|Daughtry|62|2006-11-21
+0rbGx96lGWaTAPgd1a9fWR|album|Dave Matthews Band|2TI7qyDE0QfyOlnbtfDo7L|1|13|Big Whiskey and the GrooGrux King|52|2009-06-02
+2w1YJXWMIco6EBf0CovvVN|album|David Bowie|0oSGxfWSnnOXhD2fKuz2Gy|1|7|Blackstar|55|2016-01-08
+48D1hRORqJq52qsnUYZX56|album|David Bowie|0oSGxfWSnnOXhD2fKuz2Gy|1|11|The Rise And Fall Of Ziggy Stardust And The Spiders From Mars (2012 Remastered Version)|70|1972-06-06
+4MJcuG31fFG8rimuSCvJyx|album|David Cook|4SQxI8xg6LcSWL3KuGVHLa|1|13|David Cook|49|2008-11-14
+2e4xOasRFhJn4x2MBM5pdu|album|Deafheaven|4XpPveeg7RuYS3CgLo75t9|1|5|New Bermuda|36|2015-10-02
+2iA7rzpQsOfAPkfH4Ekp7f|album|Deafheaven|4XpPveeg7RuYS3CgLo75t9|1|7|Ordinary Corrupt Human Love|44|2018-07-13
+2kKXGWaCEl06EKZ4DxBJIT|album|Deafheaven|4XpPveeg7RuYS3CgLo75t9|1|7|Sunbather|43|2013-05-28
+1HUMjB15ARg96KIypcGzYY|album|Deerhunter|38zTZcuN7nFvVJ6auhc6V3|1|11|Halcyon Digest|60|2010-09-27
+31oeDyCOLhgeZyktfxo0pE|album|Def Leppard|6H1RjVyNruCmrBEWRbD0VZ|1|47|Hysteria (Super Deluxe)|69|1987-08-03
+4PIVdqvL1Rc7T7Vfsr8n8Q|album|Deftones|6Ghvu1VvMGScGpOUJBAHNH|1|11|Koi No Yokan|56|2012-11-09
+0b6ivSFfDs38MG7aLn9rvO|album|Destiny's Child|1Y8cdNmUJH7yBTd9yOvr5i|1|11|Destiny Fulfilled|67|2004-11-16
+4WtvNVR7QeHUZGtHth9zND|album|Destroyer|22ojy4H4ZVpowC4lRRC8In|1|9|Kaputt|42|2011-01-25
+1W2B8qW1EDywGkYE6UYDKB|album|Destroyer|22ojy4H4ZVpowC4lRRC8In|1|13|Poison Season|29|2015-08-28
+7wAVY3C4YLszpb62Cnl4dc|album|Dirty Projectors|5VF0YkVLeVD4ytyiyVSIiF|1|9|Bitte Orca|40|2009-06-09
+1zgQkZFMRqx1Lz9GVXghLt|album|Dixie Chicks|25IG9fa7cbdmCIy3OnuH57|1|12|Home|62|2002-07-26
+2NeJdEWras0uSuzLPlJZk5|album|Dixie Chicks|25IG9fa7cbdmCIy3OnuH57|1|14|Taking The Long Way|57|2006-04-07
+0sT4nyNxsvGNQr1O8OR83O|album|DJ Koze|1kR99O4MgSTasyeJh8UFCg|1|16|Knock Knock|59|2018-05-04
+6oXYzbqsFNVchhyC0Fj64p|album|DM Stith|63JafnzstkiEySBh4rBiCM|1|12|Heavy Ghost|11|2009-03-10
+3eM1KTKmpqrQOvuvYY42cr|album|Donnie Trumpet & The Social Experiment|0ojcq9LJQWMawQdFDw3M0L|1|16|Surf|62|2015-06-30
+2HhSjSa5X3TQSIkS4CpFyu|album|Dr. John|320TrJub4arztwXRm7kqVO|1|10|Locked Down|46|2012-03-30
+0ptlfJfwGTy0Yvrk14JK1I|album|Drake|3TVXtAsR1Inumwj472S9r4|1|17|If You're Reading This It's Too Late|76|2015-02-12
+1lXY618HWkwYKJWBRYR4MK|album|Drake|3TVXtAsR1Inumwj472S9r4|1|22|More Life|82|2017-03-18
+2gXTTQ713nCELgPOS0qWyt|album|Drake|3TVXtAsR1Inumwj472S9r4|1|15|Nothing Was The Same (Deluxe)|74|2013-01-01
+1ATL5GLyefJaxhQzSPVrLX|album|Drake|3TVXtAsR1Inumwj472S9r4|1|25|Scorpion|90|2018-06-29
+6X1x82kppWZmDzlXXK3y3q|album|Drake|3TVXtAsR1Inumwj472S9r4|1|19|Take Care (Deluxe)|80|2011
+6agmeioaDOBupymziJihgB|album|Drake|3TVXtAsR1Inumwj472S9r4|1|15|Thank Me Later (Int'l Version)|68|2010-01-01
+40GMAhriYJRO1rsY4YdrZb|album|Drake|3TVXtAsR1Inumwj472S9r4|1|20|Views|82|2016-05-06
+1ozpmkWcCHwsQ4QTnxOOdT|album|"Drake|Future"|"3TVXtAsR1Inumwj472S9r4|1RyvyyTE3xzB2ZywiAwp0i"|2|11|What A Time To Be Alive|73|2015-09-20
+5CGska6gYyCHeEdcHnZfL2|album|Drive-By Truckers|1rXr1ZnvbRoYBaedIl9v4v|1|11|American Band|39|2016-09-30
+5k4bixfALfjxwQ6t9Mm6dz|album|Drive-By Truckers|1rXr1ZnvbRoYBaedIl9v4v|1|20|Southern Rock Opera|40|2001
+2widuo17g5CEC66IbzveRu|album|Eagles|0ECwFtbIWEVNwjlrfc6xoL|1|9|Hotel California (2013 Remaster)|76|1976
+2cWtnFvM7BmyQG1ojQDcCT|album|Eagles|0ECwFtbIWEVNwjlrfc6xoL|1|20|Long Road Out Of Eden|51|2007-10-30
+66at85wgO2pu5CccvqUF6i|album|Earl Sweatshirt|3A5tHz1SfngyOZM2gItYKu|1|15|Some Rap Songs|66|2018-11-30
+3T4tUhGYeRNVUGevb0wThu|album|Ed Sheeran|6eUKZXaKkcviH0Ku9w2n3V|1|16|÷ (Deluxe)|91|2017-03-03
+1xn54DMo2qIqBuMqHtUsFd|album|Ed Sheeran|6eUKZXaKkcviH0Ku9w2n3V|1|16|x (Deluxe Edition)|84|2014-06-21
+75QfNfqa1LT0R5MIRKqR2q|album|El-P|57UnSUpae3SbRekxNa5Kgl|1|12|Cancer 4 Cure|43|2012
+1uzIyRT1QxDx4fMIX0UiAE|compilation|Elton John|3PhoLpVuITZKcymswpck5b|1|51|Diamonds (Deluxe)|72|2017-11-10
+6g9uPPHtnxQLSUd6d9xK8n|album|Elton John|3PhoLpVuITZKcymswpck5b|1|34|Goodbye Yellow Brick Road (Remastered / Deluxe Edition)|71|1973-10-05
+4UcpKa4yD9AA3iEHI8MFSF|album|Elton John|3PhoLpVuITZKcymswpck5b|1|13|Captain Fantastic And The Brown Dirt Cowboy|61|1975-05-19
+1zUY4PAFrNUOCeaEBrEHzh|compilation|Eminem|7dGJo4pcD2V6oG8kP0tJRR|1|17|Curtain Call: The Hits|60|2005-12-06
+7tsXPtLqhab1zWeubbf6JH|album|Eminem|7dGJo4pcD2V6oG8kP0tJRR|1|20|Encore|70|2004-11-12
+3HNnxK7NgLXbDoxRZxNWiR|album|Eminem|7dGJo4pcD2V6oG8kP0tJRR|1|13|Kamikaze|84|2018-08-31
+47BiFcV59TQi2s9SkBo2pb|album|Eminem|7dGJo4pcD2V6oG8kP0tJRR|1|17|Recovery|80|2010-06-18
+7MZzYkbHL9Tk3O6WeD4Z0Z|album|Eminem|7dGJo4pcD2V6oG8kP0tJRR|1|29|Relapse: Refill|72|2009-05-15
+2cWBwpqMsDJC1ZUwz813lo|album|Eminem|7dGJo4pcD2V6oG8kP0tJRR|1|20|The Eminem Show|82|2002-05-26
+6DN7GcZF1HywzrkGN6Eeqk|album|Eminem|7dGJo4pcD2V6oG8kP0tJRR|1|21|The Marshall Mathers LP2 (Deluxe)|76|2013-11-05
+6whfi6LNFoQnkvrQAWwZix|album|Enrique Iglesias|7qG3b048QCHVRO5Pv1T5lw|1|13|Escape|56|2001-01-01
+2ioso1tqQ5zABQDVYyiUi5|album|Enya|6uothxMWeLWIhsGeF7cyo4|1|12|A Day Without Rain|66|2000-11-11
+5dtw6CoMhbrSj01YUvdQOF|album|Eric Church|2IvkS5MXK0vPGnwyJsrEyV|1|11|Chief|71|2011-01-01
+7Ad3sRoSJmRcjtd5Ce27Oj|album|Eric Church|2IvkS5MXK0vPGnwyJsrEyV|1|12|The Outsiders|66|2014-01-01
+02w1xMzzdF2OJxTeh1basm|album|Evanescence|5nGIFgo0shDenQYSE0Sn7c|1|12|Fallen|75|2003-01-01
+6AiSmBuuVUi2xCIVJsXcQb|album|Ex Hex|2LdMozrLZExZ27oOAnUgkb|1|12|Rips|35|2014-10-07
+3avy9ZvrDRdDQKRcf1kJ6V|album|Ezra Furman|1uR7zoLrSRI8bSL43OZ0GY|1|13|Transangelic Exodus|47|2018-02-09
+022DrG7Wp2PSCwzuD0bSzT|album|Fall Out Boy|4UXqAaa6dQYAk18Lv7PEgX|1|11|American Beauty/American Psycho|77|2015-01-20
+2A8IKX257C4hJaYUHMhLP7|album|Father John Misty|2kGBy2WHvF0VdZyqiVCkDT|1|11|I Love You, Honeybear|57|2015-02-10
+3CoFoDt6zt5EKxmTpOX32b|album|Father John Misty|2kGBy2WHvF0VdZyqiVCkDT|1|13|Pure Comedy|52|2017-04-07
+3t8HFQNlwLBW7htwLvFfzA|album|Fergie|3r17AfJCCUqC9Lf0OAc73G|1|13|The Dutchess|68|2006-01-01
+2gKQvajkEEaDtkqJ8FJ4uw|album|Fetty Wap|6PXS4YHDkKvl1wkIl4V8DL|1|20|Fetty Wap (Deluxe)|71|2015-09-25
+3UHMhYzYnfTBEuDxb1JmxC|album|Fever Ray|5hE6NCoobhyEu6TRSbjOJY|1|11|Plunge|36|2017-10-27
+6B5favhKTShFTjRLsKIUfa|album|Fiona Apple|3g2kUQ6tHLLbmkV7T4GPtL|1|11|The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition)|47|2012-06-18
+5VqGGKeWpIBRFh4M4XmqDK|album|FKA twigs|6nB0iY1cjSY1KyhYyuIIKH|1|10|LP1|51|2014-08-12
+7LKzVm90JnhNMPF6qX21fS|album|Fleet Foxes|4EVpmkEwrLYEg6jIsiPMIb|1|12|Helplessness Blues|56|2011-05-03
+0LfM3PGkXE6KvJEE1HkOnz|compilation|Fleetwood Mac|08GQAI4eElDnROBrJRGE0X|1|16|Greatest Hits|69|1988-11-21
+0BwWUstDMUbgq2NYONRqlu|album|Fleetwood Mac|08GQAI4eElDnROBrJRGE0X|1|58|Rumours (Super Deluxe)|79|1977-02-04
+51QBkcL7S3KYdXSSA0zM9R|album|Floating Points|2AR42Ur9PcchQDtEdwkv4L|1|7|Elaenia|32|2015-11-06
+5NG7WZaCZZ12M5LJm0JcVc|album|Florida Georgia Line|3b8QkneNDz4JHKKKlLgYZg|1|12|Anything Goes|69|2014-10-14
+5MH765pytbQasmDxXArTah|album|Florida Georgia Line|3b8QkneNDz4JHKKKlLgYZg|1|11|Here's To The Good Times|69|2012-01-01
+5c7XChrHxYaqykCZLaGM5f|album|Flying Lotus|29XOeO6KIWxGthejQqn793|1|17|Cosmogramma|53|2010-05-03
+29luvT98TnqHjVDYSRbbrj|album|Flying Lotus|29XOeO6KIWxGthejQqn793|1|19|You're Dead!|54|2014-10-06
+2Pw51hAGvWpTA3AYl2WVuu|album|Foreigner|6IRouO5mvvfcyxtPDKMYFN|1|12|4 [Expanded]|66|1981
+3mH6qwIy9crq0I9YQbOuDf|album|Frank Ocean|2h93pZq0e7k5yf4dywlkpM|1|17|Blonde|81|2016-08-20
+392p3shh2jkxUxY2VHvlH8|album|Frank Ocean|2h93pZq0e7k5yf4dywlkpM|1|17|channel ORANGE|74|2012-01-01
+7exqkn1MEoUhfDRMjwCOgm|album|Fucked Up|05C3EDw4Rf0qMhrdjFKncL|1|18|David Comes To Life|38|2011-06-06
+7iycyHwOW2plljYIK6I1Zo|album|fun.|5nCi3BB41mBaMH9gfr6Su0|1|12|Some Nights (Spotify Exclusive)|68|2012-02-21
+17FBoXK1NU2rvJBbzdzw0r|album|Future|1RyvyyTE3xzB2ZywiAwp0i|1|20|FUTURE|75|2017-06-30
+0BolFrIcCXXppUK50ETvgy|album|G-Unit|6evKD5JWJON3qPBJtUEmtY|1|19|Beg For Mercy|66|2003-01-01
+3FnTGwJUmashhPZm9T87k4|album|Gang Gang Dance|6UU6YXQaFGQToWN6U28Dcb|1|10|Eye Contact|32|2011-05-09
+09Q3WwGYsQe5ognkvVkmCu|album|G-Eazy|02kJSzxNuaWGqwubyUba0Z|1|17|When It's Dark Out|75|2015-12-04
+49BxISwAbZZfmlhqD6Vh88|album|Genesis|3CkvROUTQ6nRi9yQOcsB50|1|23|The Lamb Lies Down On Broadway|42|1974-11-18
+3hPl7uRfNdRvoRW0kUzkVk|album|Ghostface Killah|6FD0unjzGQhX3b6eMccMJe|1|12|Apollo Kids|32|2010-01-01
+5uz9hkZeN7l5KHtmMDqgR0|album|Gillian Welch|2H5elA2mJKrHmqkN9GSfkz|1|10|The Harrow & The Harvest|45|2011-06-28
+3ld6n4RnKT8mYYOhAOg2Kf|album|Godspeed You! Black Emperor|4svpOyfmQKuWpHLjgy4cdK|1|4|Asunder, Sweet and Other Distress|30|2015-03-27
+5CTygC3aONv7l0klY4k3hc|album|Good Charlotte|5aYyPjAsLj7UzANzdupwnS|1|14|The Young and The Hopeless|69|2002-10-04
+1AHZd3C3S8m8fFrhFxyk79|album|Green Day|7oPftvlwr6VrsViSDV7fJY|1|18|21st Century Breakdown|69|2009-05-15
+5dN7F9DV0Qg1XRdIgW8rke|album|Green Day|7oPftvlwr6VrsViSDV7fJY|1|9|American Idiot|75|2004-09-21
+5OYkhSnpSoztkCKind5tap|album|Gretchen Wilson|0IdYRFTswLdsGwSnzOaGNF|1|10|Here For The Party|52|2004-05-11
+5hB4jVN4ZHpubyiMmW81K1|album|Grimes|053q0ukIDRgzwTr4vNSwab|1|14|Art Angels|62|2015-11-06
+57LAEzKL94ZHwbIkUWYCDY|album|Grizzly Bear|2Jv5eshHtLycR6R8KQCdc4|1|10|Shields|50|2012-09-17
+6FIFqclBriPCb0SjWDaHIk|album|Grizzly Bear|2Jv5eshHtLycR6R8KQCdc4|1|12|Veckatimest|63|2009-05-24
+38aA0H1wIKl4p1lqa6BiDo|album|Guy Clark|0Ekfvspc0hlcxdfJJVjcnq|1|11|My Favorite Picture Of You|39|2013-07-23
+1HduTydfaUY3idi2YgT3mb|album|Gwen Stefani|4yiQZ8tQPux8cPriYMWUFP|1|12|Love Angel Music Baby|65|2004-01-01
+7xnZ539lh8x6de9jzlpCJp|album|Gwen Stefani|4yiQZ8tQPux8cPriYMWUFP|1|12|The Sweet Escape|60|2006-01-01
+0VqOfYQxQomNWHAiB9MHm2|album|Herb Alpert & The Tijuana Brass|09L3cUdx0hq6qn5bKuJJ4I|1|12|!!!Going Places!!!|45|1965-10-01
+4D5g4h22sVd5m8mBEZAzpn|album|Herb Alpert & The Tijuana Brass|09L3cUdx0hq6qn5bKuJJ4I|1|12|Whipped Cream & Other Delights|47|1965-04-01
+4hRQfVSbQmvOCdhL1vIeFf|album|High On Fire|1eiIIImNeUj3vpaocWqoOf|1|10|De Vermis Mysteriis|28|2012-04-03
+2zfZe8P8jg53kZaAfCdBYs|album|Hilary Duff|2S9W9aSAd7e5mp8WqWxN2h|1|13|Metamorphosis|54|2003-01-01
+2SmDuZSWtjukp9gkG2mcBQ|album|Hinder|6BMhCQJYHxxKAeqYS1p5rY|1|10|Extreme Behavior|64|2005-01-01
+7EtK7XiObsZGF6oBKLrvKH|album|Hoobastank|2MqhkhX4npxDZ62ObR5ELO|1|12|The Reason|66|2004-04-27
+3wDOavy8yEk8G2c0mfyTsA|album|Hookworms|7c5Qvy0cv7VGzRnUSwnSnj|1|9|Microshift|35|2018-02-02
+5AYmpTfdv1OoASUJ5rZB7K|album|Hootie & The Blowfish|08ct2eZF5lUPdJpHwNKWof|1|12|Cracked Rear View|66|1994-07-01
+4Pv7m8D82A1Xun7xNCKZjJ|album|Hozier|2FXC3k01G6Gw61bmprjgqS|1|15|Hozier (Expanded Edition)|76|2014-09-19
+0J1DP5GvKrzWumwzlcFhLc|album|Hüsker Dü|16bN8mhtDFdegWbg0z3s10|1|23|Zen Arcade|44|1984-01-01
+6vlGKE1mG5wxiqNE6fYXOF|album|Iceage|03hlOXqRyyXO3ectp3eEbU|1|12|New Brigade|24|2011-06-21
+7BbRSUBwTB37ut0Ht3yAqt|album|IDLES|75mafsNqNE1WSEVxIKuY5C|1|12|Joy as an Act of Resistance.|49|2018-08-31
+33pt9HBdGlAbRGBHQgsZsU|album|Imagine Dragons|53XhwfbYqKCa1cC15pYq2q|1|12|Evolve|87|2017-06-23
+6htgf3qv7vGcsdxLCDxKp8|album|Imagine Dragons|53XhwfbYqKCa1cC15pYq2q|1|12|Night Visions|72|2012-01-01
+7viNUmZZ8ztn2UB4XB3jIL|album|J. Cole|6l3HvQ5sa6mXTsMTB19rO5|1|13|2014 Forest Hills Drive|81|2014-12-09
+3CCnGldVQ90c26aFATC1PW|album|J. Cole|6l3HvQ5sa6mXTsMTB19rO5|1|10|4 Your Eyez Only|75|2016-12-09
+4Wv5UAieM1LDEYVq5WmqDd|album|J. Cole|6l3HvQ5sa6mXTsMTB19rO5|1|12|KOD|79|2018-04-20
+2wMavIKnu6feFNOeQ1hVwf|album|Ja Rule|1J2VVASYAamtQ3Bt8wGgA6|1|16|Pain Is Love|66|2001-01-01
+3fa8r86AofGDNs1S2d3xgz|album|Jack Johnson|3GBPw9NK25X1Wt2OUvOwY3|1|14|Sleep Through The Static|64|2008
+6eSJ0lu0uwtiqXkP7Qrrno|album|Jack White|4FZ3j1oH43e7cukCALsCwf|1|13|Blunderbuss|53|2012-04-20
+1ekaxA9Q5GzUPCepx4wzMF|album|James Blunt|7KMqksf0UMdyA0UCf4R3ux|1|10|Back To Bedlam|71|2005-08-08
+0B6BbyElOe4bwziJrunOTe|album|James Brown|7GaxyUddsPok8BuhxN6OUW|1|11|James Brown Live At The Apollo, 1962|28|1963-05-01
+7glcyk6Q02m2ntmmwY2CbB|album|Jamey Johnson|5yhxqYI0JBwUKfXpSEjiM8|1|25|The Guitar Song|53|2010
+4Tk1gvdwy7TL3Ma2s9iZ9f|album|Jamie Foxx|7LnaAXbDVIL75IVPnndf7w|1|15|Intuition|59|2008-12-11
+045D1HbNHv4R31D9vkL8Ve|album|Jamie Foxx|7LnaAXbDVIL75IVPnndf7w|1|15|Unpredictable|51|2005-12-20
+01uabHpYa9AA55wc6AwRQL|album|Jamie xx|7A0awCXkE1FtSU8B0qwOJQ|1|11|In Colour|55|2015-06-02
+2PjlaxlMunGOUvcRzlTbtE|album|Janelle Monáe|6ueGR6SWhUJfvEhqkvMsVs|1|14|Dirty Computer|69|2018-04-27
+36fPTydSJdDMoWngCzwtGM|single|Janelle Monáe|6ueGR6SWhUJfvEhqkvMsVs|1|5|"Metropolis Suite I ""The Chase"""|14|2007-08-25
+7MvSB0JTdtl1pSwZcgvYQX|album|Janelle Monáe|6ueGR6SWhUJfvEhqkvMsVs|1|18|The ArchAndroid|54|2010-05-17
+3pukt8UD5RDPxUEdiOB7O2|album|Japandroids|2WcCoPxAWFNSCvsFPrpf30|1|8|Post-Nothing|33|2009-06-09
+6gYk1JlSSmlUZGs1Lef1BI|album|Jason Aldean|3FfvYsEGaIb52QPXhg4DcH|1|15|My Kinda Party|69|2010-11-02
+2uXHwdc2aTcUP2EhXKhPRu|album|Jason Aldean|3FfvYsEGaIb52QPXhg4DcH|1|15|Night Train|66|2012-10-16
+5p3nTBqh8WCoQfRDAaVp68|album|Jason Aldean|3FfvYsEGaIb52QPXhg4DcH|1|15|Old Boots, New Dirt|64|2014-10-07
+1foB2t5YmfC6PxIC31g5Cp|album|Jason Isbell|3Q8wgwyVVv0z4UEh1HB0KY|1|11|Something More Than Free|57|2015-07-17
+1bg476ZQn7hmcXaU05SHV4|album|Jason Isbell|3Q8wgwyVVv0z4UEh1HB0KY|1|12|Southeastern|56|2013-06-11
+25tF75FJxukSdUYiXAXnhu|album|Jason Moran|7g3iwvP459BN53F7CDxemI|1|13|Ten|33|2010-01-01
+4FcJwv9ebTXeMuTX1HkK4q|album|Jazmine Sullivan|7gSjFKpVmDgC2MMsnN8CYq|1|11|Love Me Back|48|2010-11-29
+2NG4OLyeNMwcLqirwwwvs2|album|Jennifer Lopez|2DlGxzQSjYe5N6G9nkYghR|1|12|This Is Me...Then|61|2002-11-19
+1tCJPKhKa3j1OBgz0MhBUV|album|Jessica Simpson|2tFN9ubMXEhdAQvdQxcsma|1|14|In This Skin (Deluxe Edition)|52|2003
+1T5wmjLCBuuTKTpKsiAn7R|album|Jessie Ware|5Mq7iqCWBzofK39FBqblNc|1|13|Devotion|39|2012
+37Zms3u6Da41sizguIcn6M|album|Jethro Tull|6w6z8m4WXX7Tub4Rb6Lu7R|1|8|Thick As a Brick (40th Anniversary Special Edition)|44|1972-03-03
+6m5Jy89Af4LWormzjaMPKd|album|Jlin|23QKqAkKwti9zBiac6RFBA|1|12|Black Origami|22|2017-05-19
+7Eoz7hJvaX1eFkbpQxC5PA|album|John Coltrane|2hGh5VOeeqimQFxqXvfCUf|1|4|A Love Supreme|43|1965-02
+0DFYbYCcHCEJPcN1hODG6K|album|John Lennon|4x1nvY2FN8jxqAFA0DA02H|1|11|Plastic Ono Band|56|1970-12-11
+1V5vQRMWTNGmqwxY8jMVou|album|John Mayer|0hEurMDQu99nJRq8pTxO14|1|11|Battle Studies|70|2009-11-13
+4jcRw4qVurxoZcfIYPKDpz|album|Jonas Brothers|7gOdHgIoIKoe4i9Tta6qdD|1|12|A Little Bit Longer|71|2008-08-12
+1Uf67JAtkVWfdydzFFqNF2|album|Jonas Brothers|7gOdHgIoIKoe4i9Tta6qdD|1|14|Happiness Begins|88|2019-06-07
+4myOCm6FzD9TMdK7Q0Nzx0|album|Jonas Brothers|7gOdHgIoIKoe4i9Tta6qdD|1|14|Jonas Brothers|69|2007-01-01
+1vz94WpXDVYIEGja8cjFNa|album|Joni Mitchell|5hW4L92KnC6dX9t7tYM4Ve|1|10|Blue|65|1971-06-22
+6E6fumzB50Dwmzc7MUkXuC|album|Josh Groban|6cXMpsP9x0SH4kFfMyVezF|1|15|Awake|49|2006-10-31
+6Uj9VARQcRBOQZ2uBywlrH|album|Josh Groban|6cXMpsP9x0SH4kFfMyVezF|1|13|Closer|52|2003-11-11
+2RyNJQFIx1WRE28sVRC6pd|album|Josh Groban|6cXMpsP9x0SH4kFfMyVezF|1|13|Illuminations|40|2010-11-12
+27Ovu2vEYcN7dcd27yRkGg|album|Josh Groban|6cXMpsP9x0SH4kFfMyVezF|1|19|Noël (Deluxe Edition)|36|2017-11-03
+43wpzak9OmQfrjyksuGwp0|album|Journey|0rvjqX7ttXeg3mTy8Xscbt|1|14|Escape|73|1981
+6tkjU4Umpo79wwkgPMV3nZ|album|Juice WRLD|4MCBfE4596Uoi2O4DtmEMz|1|17|Goodbye & Good Riddance|89|2018-12-10
+7mvFMnbXlBCw0VtSuRKOoL|album|Julia Holter|0bsV0sUjnCuCTYOnNHQl3E|1|10|Ekstasis|22|2012-06-03
+0EiGGBzF9wzJn2X8F0Yvjh|album|Julia Holter|0bsV0sUjnCuCTYOnNHQl3E|1|10|Have You In My Wilderness|46|2015-09-25
+3JhMmVL9ISUnRaVbrJ72OB|album|Julia Holter|0bsV0sUjnCuCTYOnNHQl3E|1|9|Loud City Song|33|2013-08-19
+70f70xLCpH7wHaVvB2oZT9|album|Justin Bieber|1uNFoZAHBGtllmzznpCI3s|1|17|Believe (Deluxe Edition)|74|2012-01-01
+1rG5TDs3jYh6OU753I54CI|album|Justin Bieber|1uNFoZAHBGtllmzznpCI3s|1|7|My World|66|2009-01-01
+3BmcYMh0KYsimWL6p2gPa9|album|Justin Bieber|1uNFoZAHBGtllmzznpCI3s|1|10|My World 2.0|71|2010-01-01
+6Fr2rQkZ383FcMqFyT7yPr|album|Justin Bieber|1uNFoZAHBGtllmzznpCI3s|1|19|Purpose (Deluxe)|83|2015-11-13
+63MKT9hwmiMFFdFp5SdB1p|album|Justin Bieber|1uNFoZAHBGtllmzznpCI3s|1|15|Under The Mistletoe (Deluxe Edition)|54|2011-01-01
+0tcExuDWMQdBbwSpqN8Ku2|album|Justin Timberlake|31TPClRtHm23RisEBtV3X7|1|15|FutureSex/LoveSounds Deluxe Edition|70|2006-09-13
+6QPkyl04rXwTGlGlcYaRoW|album|Justin Timberlake|31TPClRtHm23RisEBtV3X7|1|13|Justified|73|2002-11-04
+0O82niJ0NpcptYRxogeEZu|album|Justin Timberlake|31TPClRtHm23RisEBtV3X7|1|12|The 20/20 Experience (Deluxe Version)|71|2013-03-15
+7f6xPqyaolTiziKf5R5Z0c|album|Kacey Musgraves|70kkdajctXSbqSMJbQO424|1|13|Golden Hour|78|2018-03-30
+4EPQtdq6vvwxuYeQTrwDVY|album|Kali Uchis|1U1el3k54VvEUzo3ybLPlM|1|15|Isolation|72|2018-04-06
+2aBgwU4zIm1tekGzphKYp8|album|Kamasi Washington|6HQYnRM4OzToCYPpVBInuU|1|16|Heaven and Earth|42|2018-06-22
+3WFTGIO6E3Xh4paEOBY9OU|album|Kanye West|5K4W6rqBFWDnAN6FQUkS6x|1|12|808s & Heartbreak|73|2008-01-01
+5fPglEDz9YEwRgbLRvhCZy|album|Kanye West|5K4W6rqBFWDnAN6FQUkS6x|1|13|Graduation|79|2007-09-11
+5ll74bqtkcXlKE7wwkMq4g|album|Kanye West|5K4W6rqBFWDnAN6FQUkS6x|1|21|Late Registration|74|2005-09-30
+20r762YmB5HeofjMCiPMLv|album|Kanye West|5K4W6rqBFWDnAN6FQUkS6x|1|13|My Beautiful Dark Twisted Fantasy|78|2010-01-01
+4Uv86qWpGTxf7fU7lG5X6F|album|Kanye West|5K4W6rqBFWDnAN6FQUkS6x|1|21|The College Dropout|73|2004-02-10
+7D2NdGvBHIavgLhmcwhluK|album|Kanye West|5K4W6rqBFWDnAN6FQUkS6x|1|10|Yeezus|73|2013-01-01
+1sFrZZRJfBb3QHfcIgaRUP|album|Kate Bush|1aSxMhuvixZ8h9dK9jIDwL|1|7|50 Words For Snow|21|2011-11-22
+3tKQgUPwP937WzBO8e4Qp4|album|Kate Tempest|1O3wYcUD08X9yb6J3xaw5M|1|13|Let Them Eat Chaos|31|2016-10-07
+5MQBzs5YlZlE28mD9yUItn|album|Katy Perry|6jJ0s89eD6GaHleKKya26X|1|16|PRISM (Deluxe)|77|2013-01-01
+0tIdCueVqQ45AmVK1IwlbC|album|Katy Perry|6jJ0s89eD6GaHleKKya26X|1|12|Teenage Dream|32|2010-01-01
+6fpLLJsDSSAlToEDW2jv4F|album|Kesha|6LqNN22kT3074XbTVUrhzX|1|18|Animal (Expanded Edition)|73|2010-01-01
+5gDAEao3VxFdbm8vS0koQq|album|Kelly Clarkson|3BmGtnKgCSGYIUhmivXKWX|1|12|Breakaway|72|2004-01-17
+1MNvMtEmMMdBXZBDcFNcWj|album|Kelly Clarkson|3BmGtnKgCSGYIUhmivXKWX|1|17|Stronger (Deluxe Version)|59|2011-10-24
+7Jahqd1kx9Qau0E9x9iZj6|album|Kelly Clarkson|3BmGtnKgCSGYIUhmivXKWX|1|14|Wrapped In Red|37|2013-10-29
+4eLPsYPBmXABThSJ821sqY|album|Kendrick Lamar|2YZyLoL8N0Wb9xBt1NhZWg|1|14|DAMN.|84|2017-04-14
+3DGQ1iZ9XKUQxAUWjfC34w|album|Kendrick Lamar|2YZyLoL8N0Wb9xBt1NhZWg|1|17|good kid, m.A.A.d city (Deluxe)|73|2012
+7ycBtnsMtyVbbwTfJwRjSP|album|Kendrick Lamar|2YZyLoL8N0Wb9xBt1NhZWg|1|16|To Pimp A Butterfly|74|2015-03-16
+0kL3TYRsSXnu0iJvFO3rud|album|Kendrick Lamar|2YZyLoL8N0Wb9xBt1NhZWg|1|8|untitled unmastered.|62|2016-03-04
+5uMLCobPh02IG3fyH0Dzec|album|Kenny Chesney|3grHWM9bx2E9vwJCdlRv9O|1|11|The Road And The Radio|57|2005-11-06
+052CF6cpp0nAH67yuUrIp7|album|Kenny Chesney|3grHWM9bx2E9vwJCdlRv9O|1|11|When The Sun Goes Down|57|2004-01-22
+5Hs43ta4vAYKRRRR7DKjt9|album|Kevin Gates|1gPhS1zisyXr5dHTYZyiMe|1|17|Islah (Deluxe)|72|2016-01-29
+1s8RmcZjTuvDt9eQ4MAKLI|album|Kevin Morby|6fxk3UXHTFYET8qCT9WlBF|1|9|Singing Saw|46|2016-04-15
+33e65SDeu5HhT5Iq7Gt2f4|album|Keyshia Cole|1vfezMIyCr4XUdYRaKIKi3|1|15|A Different Me|54|2008-01-01
+6kf46HbnYCZzP6rjvQHYzg|album|Khalid|6LuN9FCkKOj5PcnpouEgny|1|15|American Teen|86|2017-04-27
+5zYwSRllQRaJFdQEcvCO8l|album|Kid Rock|7dOBabd5O4CvKrg4iriHTM|1|13|Born Free|52|2010-11-15
+64du8CiAmKAzVswhA3RK4r|album|Kid Rock|7dOBabd5O4CvKrg4iriHTM|1|14|Cocky|61|2001-11-19
+2xChdOg0PvxzHzE1BooUpI|album|Kid Rock|7dOBabd5O4CvKrg4iriHTM|1|12|Rock N Roll Jesus|67|2007-10-09
+5EAhUoAz1G3WTvIfGZvmrh|album|Killer Mike|2N4EYkIlG1kv25g6Wv8LGI|1|12|R.A.P. Music|44|2012-05-15
+5CZR6ljD0x9fTiS4mh9wMp|album|Kings of Leon|2qk9voo8llSGYcZ6xrBzKx|1|11|Only By The Night|76|2008-09-23
+6KrOIFhdjCOhNkw3mlZw2n|album|Koe Wetzel|1Tie3AZgLQZqYEp8Fv4zOZ|1|15|Harold Saul High|63|2019-06-21
+7Ef78zEngwk9pLYZhjyMSh|album|Konono N°1|6Sr77iisVrcSg7bQfqqRHk|1|8|Assume Crash Position|4|2010-01-01
+2NNavvaS7LcOxryzfxSkgw|album|Kylesa|7mO0JGOATH8fVHvgCdZsXh|1|11|Spiral Shadow|31|2010
+3MHTGwjWJhfcc3yBnvo6yh|album|Lady Antebellum|32WkQRZEVKSzVAAYqukAEA|1|11|Lady Antebellum|56|2008-01-01
+5RypFF6rN9MUxFe4aAWA28|album|Lady Antebellum|32WkQRZEVKSzVAAYqukAEA|1|12|Need You Now|64|2010-01-01
+77qMEqlvpP3A9birVl9bjn|album|Lady Antebellum|32WkQRZEVKSzVAAYqukAEA|1|12|Own The Night|56|2011-01-01
+2KkMVsxymoNR7hRmBcMttd|album|Lady Gaga|1HY2Jd0NmPuamShAr6KMms|1|14|Born This Way|63|2011-01-01
+2FBA8NCSuQNi8jaR2Xjbal|album|Lady Gaga|1HY2Jd0NmPuamShAr6KMms|1|14|The Fame|67|2008-01-01
+034EE1ofh9OM6wJBqd2xYo|album|Lady Gaga|1HY2Jd0NmPuamShAr6KMms|1|8|The Fame Monster|59|2009
+2sys0w1WpiB1k6ZhfYCbBY|album|Laura Marling|7B2edU3Q7btJoNsoHCNohM|1|16|Once I Was An Eagle|38|2013-05-28
+3Z4NNeh0gf4oGquXZEU1NT|album|Laura Marling|7B2edU3Q7btJoNsoHCNohM|1|9|Semper Femina|45|2017-03-10
+6pmoTLfsPpn0wisT3YFJSN|album|Lauren Daigle|40LHVA5BTQp9RxHOQ9JPYj|1|13|Look Up Child|76|2018-09-07
+4AF1M7bGCFL3LHCtXUUXw5|album|LCD Soundsystem|066X20Nz7iquqkkCW6Jxy6|1|10|american dream|57|2017-09-01
+4hnqM0JK4CM1phwfq1Ldyz|album|LCD Soundsystem|066X20Nz7iquqkkCW6Jxy6|1|9|This Is Happening|59|2010-05-17
+3ycjBixZf7S3WpC5WZhhUK|album|Led Zeppelin|36QJpDe2go2KgaRleHCDTp|1|9|Led Zeppelin|67|1969-01-12
+0VaAFegRAAn4OCg7p4QjN5|album|Leona Lewis|5lKZWd6HiSCLfnDGrq9RAm|1|13|Spirit|74|2007
+0waLDJlCfXkXIwFGdBZ6UK|album|Leonard Cohen|5l8VQNuIg0turYE1VtM9zV|1|10|Old Ideas|48|2012-03-28
+1WkGbKUjhOMru7uYl25jJb|album|Leonard Cohen|5l8VQNuIg0turYE1VtM9zV|1|9|Popular Problems|51|2014-09-16
+3jeTB3j3QmUs8SPIVleHtU|album|Leonard Cohen|5l8VQNuIg0turYE1VtM9zV|1|9|You Want It Darker|58|2016-10-21
+5Bnhkya5cGltQFTrnC0grx|album|Let's Eat Grandma|4qNZw759AdHSMugyDMrIlF|1|11|I'm All Ears|48|2018-06-29
+3tnl2Vby1trjA7bnborPbw|album|Levon Helm|1PWHsS9haruM3AEebZuGs9|1|11|Electric Dirt|44|2009-01-01
+0Z0aI5ATk4kmQfTSANB0Z1|album|Lightning Bolt|2og3FOCLYXT9H7IYE6QPUq|1|9|Fantasy Empire|33|2015-03-24
+0hk2hXNB5d65F400dhcdcV|album|Lil Jon & The East Side Boyz|3ciRvbBIVz9fBoPbtSYq4x|1|19|Crunk Juice|58|2004-11-16
+4IRiXE5NROxknUSAUSjMoO|single|Lil Nas X|7jVv8c5Fj3E9VhNjxT4snq|1|8|7 EP|83|2019-06-21
+733e1ZfktLSwj96X5rsMeE|album|Lil Uzi Vert|4O15NlyKLIASxsJ0PrXPfz|1|16|Luv Is Rage 2|82|2017-08-25
+5BGzOpea6At0Nd7tYtYZOP|album|Lil Wayne|55Aa2cqylxrFIXC767Z865|1|16|Tha Carter III|73|2008-01-01
+1uuSC0RCJB3dSp8Mb6GflZ|album|Lil Wayne|55Aa2cqylxrFIXC767Z865|1|18|Tha Carter IV (Deluxe)|70|2011-01-01
+50yFYgKdwJANZ5O9MIbMkg|album|Lil Wayne|55Aa2cqylxrFIXC767Z865|1|23|Tha Carter V|79|2018-09-28
+6hPkbAV3ZXpGZBGUvL6jVM|album|Linkin Park|6XyY86QOPPrYVGvF9ch6wz|1|15|Hybrid Theory (Bonus Edition)|80|2000-10-24
+4Gfnly5CzMJQqkUFfoHaP3|album|Linkin Park|6XyY86QOPPrYVGvF9ch6wz|1|13|Meteora|75|2003-03-24
+2tlTBLz2w52rpGCLBGyGw6|album|Linkin Park|6XyY86QOPPrYVGvF9ch6wz|1|12|Minutes to Midnight|75|2007-05-14
+3alZBOvPaK3hgMEEymw4Yr|album|Lionel Richie|3gMaNLQm7D9MornNILzdSl|1|8|Can't Slow Down|57|1983-01-01
+06mXsfCdPU4NwdWM7TDQY5|album|Lionel Richie|3gMaNLQm7D9MornNILzdSl|1|13|Tuskegee|48|2012-01-01
+18tV6PLXYvVjsdOVk0S7M8|album|Little Richard|4xls23Ye9WR9yy3yYMpAMm|1|34|Here's Little Richard (Deluxe Edition)|56|2017-11-03
+74gSdSHe71q7urGWMMn3qB|album|Lizzo|56oDRnqbIiwx4mymNEv7dS|1|14|Cuz I Love You (Deluxe)|85|2019-05-03
+1HiN2YXZcc3EjmVZ4WjfBk|album|Logic|4xRYI6VqpkE3UwrDrAZL8L|1|13|Everybody|77|2017-05-05
+2B87zXm9bOWvAJdkJBTpzF|album|Lorde|163tK9Wjr9P9DmM0AVK7lm|1|11|Melodrama|74|2017-06-16
+0rmhjUgoVa17LZuS8xWQ3v|album|Lorde|163tK9Wjr9P9DmM0AVK7lm|1|10|Pure Heroine|75|2013-01-01
+7qOeAZowxp4t7aO6GURjK2|album|Loretta Lynn|1FE0rls8gfQT3laAeRYNgl|1|14|Full Circle|38|2016-03-04
+2amHBpP8C0EUy6yBNy6nN6|album|Love|3Q6OOkfssqoMSTtl11J5Uk|1|11|Forever Changes (2015 Remastered Version)|54|1967
+1zTkgOHx3mjrUvrhxq4osf|album|Low|0wz0jO9anccPzH04N7FLBH|1|11|Double Negative|47|2018-09-14
+2872T9bE8UEJHXC46lCDaQ|album|Lucinda Williams|60ht0hWRy1yjUDfNsLuHuP|1|20|Down Where the Spirit Meets the Bone|34|2014-09-30
+6Ru52lwXvbPaAMSdyPOFsL|album|Lucy Dacus|07D1Bjaof0NFlU32KXiqUP|1|9|No Burden|56|2016-06-22
+1KushUovbraTDRu9sbO5fg|album|Ludacris|3ipn9JLAPI5GUEo4y4jcoi|1|16|The Red Light District|55|2004-01-01
+1GMj0Rx5Q6EyBYbi9Eu7Vr|album|Ludacris|3ipn9JLAPI5GUEo4y4jcoi|1|18|Word Of Mouf|60|2001-01-01
+5M8gr5RV2eR6UkztC69ogB|album|Luke Bryan|0BvkDsjIUla7X0k6CSWh1I|1|13|Crash My Party|73|2013-01-01
+0WtCqmpVN7rRGfDMSWSXBA|album|Luke Bryan|0BvkDsjIUla7X0k6CSWh1I|1|16|Kill The Lights (Deluxe)|70|2015-08-07
+4ybWq0AegFFAvHULAe7q0K|album|Luke Bryan|0BvkDsjIUla7X0k6CSWh1I|1|13|Tailgates & Tanlines|70|2011-01-01
+4nFW5W1gIwov6e4lAzn2vA|single|Luke Combs|718COspgdWOnwOFpJHRZHS|1|5|The Prequel - EP|75|2019-06-07
+53Oa5Bu0UTU8o8qCTaHKoz|album|Luke Combs|718COspgdWOnwOFpJHRZHS|1|17|This One's for You Too (Deluxe Edition)|81|2018-06-01
+0MihD70HInk2rDaChdAdEy|album|Lupe Fiasco|01QTIT5P1pFP3QnnFSdsJf|1|19|Lupe Fiasco's The Cool|61|2007-01-01
+4r1WecJyt5FOhglysp9zhN|album|MC Hammer|2rblp9fJo16ZPTcKDtlmKW|1|13|Please Hammer Don't Hurt 'Em|63|1990-02-20
+76FXHQhTuT4QMIxfL09gX8|album|Macklemore & Ryan Lewis|5BcAKTbp20cv7tC5VqPFoC|1|15|The Heist|75|2012-10-09
+1hg0pQJLE9dzfT1kgZtDPr|album|Madonna|6tbjWDEIzxoDsBA1FuhfPW|1|12|Confessions on a Dance Floor|64|2005-11-11
+2b3JjOvKw9UN47ND80Tvri|album|The Magnetic Fields|6RWjTQqILL7a1tQ0VapyLK|1|50|50 Song Memoir|38|2017-03-10
+7j4CN616j1qrAHsugcZDQs|album|Manic Street Preachers|2uH0RyPcX7fnCcT90HFDQX|1|13|Journal For Plague Lovers|12|2009-08-18
+7JXUd8N7OXYQz981E5Jaq2|album|Mariah Carey|4iHNK0tOyZPYnBU7nGAgpQ|1|14|E=MC²|59|2008-01-01
+5SwNGsGw1I8H361DKiYnnn|album|Mariah Carey|4iHNK0tOyZPYnBU7nGAgpQ|1|11|Mariah Carey|56|1990-06-12
+43iBTEWECK7hSnE0p6GgNo|album|Mariah Carey|4iHNK0tOyZPYnBU7nGAgpQ|1|14|The Emancipation of Mimi|64|2005-01-01
+7lNnNfJjnoQIKAzyZY9sdL|single|Marissa Nadler|5zjaF8JUdylMWrA7AVo3hJ|1|5|Before July: Demos & Unreleased Songs|36|2014-11-18
+29hJ8AFYZU98OzenrMr6iU|album|Maroon 5|04gDigrS5kc9YWfZHwBETP|1|12|It Won't Be Soon Before Long.|60|2007-01-01
+5x7JzoE4A3DwwU6FPt8qws|album|Maroon 5|04gDigrS5kc9YWfZHwBETP|1|12|Overexposed|64|2012-01-01
+3ThQ5dvf9wlqB0C7evh5nH|album|Maroon 5|04gDigrS5kc9YWfZHwBETP|1|16|Red Pill Blues (Deluxe)|76|2018-06-15
+5zClcGCSWj926AMjvBNSLc|album|Maroon 5|04gDigrS5kc9YWfZHwBETP|1|29|Songs About Jane: 10th Anniversary Edition|78|2002
+2Auw0pTT6EcQdvHNimhLQI|album|Maroon 5|04gDigrS5kc9YWfZHwBETP|1|12|V|77|2015-05-15
+3OpydOJywRIIozfItYnQlr|album|Marvin Gaye|3koiLjNrgRTNbOwViDipeA|1|9|What's Going On|52|1971-01-01
+5PlA7xVCN59vR0YAnRVisM|album|Mary J. Blige|1XkoF8ryArs86LZvFOkbyr|1|16|Growing Pains|47|2007-01-01
+2iy4MXWRu0roV5N7u2GBZk|album|Mary J. Blige|1XkoF8ryArs86LZvFOkbyr|1|12|Stronger withEach Tear|40|2009-01-01
+13HYuDhB1soZvHzwoymXoV|album|Mary J. Blige|1XkoF8ryArs86LZvFOkbyr|1|18|The Breakthrough|59|2005-01-01
+6pjoIUNpMtQaSJvRUmsnSh|album|Maxwell|2AOt5htsbtyaHd5Eq3kl3j|1|12|blackSUMMERS'night (2016)|44|2016-07-01
+2O3OKOYCub892PUGprsaQo|album|Meek Mill|20sxb77xiYeusSH8cVdatc|1|14|Dreams Worth More Than Money|70|2015-06-29
+5W98Ab4VvQEuFEE4TIe5fE|album|Meghan Trainor|6JL8zeS1NmiOftqZTRgdTz|1|15|Title (Deluxe)|75|2015-01-09
+0lf5ceMub7KQhLfGxCdM06|album|Metallica|2ye2Wgw4gimLv2eAKyk1NB|1|10|Death Magnetic|56|2008-09-12
+4kizef5du9TgAGfNhWbKmt|album|Metallica|2ye2Wgw4gimLv2eAKyk1NB|1|12|Hardwired…To Self-Destruct|57|2016-11-18
+6QdCohkHKNTVoaSx1ZzitH|album|Metallica|2ye2Wgw4gimLv2eAKyk1NB|1|12|Metallica|72|1991-08-12
+5hEGDneCq8aLnOq7BNGCkl|album|Metz|18TNVFTJ6WfeicsMRrdJHI|1|10|METZ|35|2012-10-09
+7uVimUILdzSZG4KKKWToq0|album|Michael Bublé|1GxkXlMwML1oSg5eLPiAz3|1|20|Christmas (Deluxe Special Edition)|54|2012-11-09
+3MXDonOIzrIrCh0HvlACyj|album|Michael Bublé|1GxkXlMwML1oSg5eLPiAz3|1|13|Crazy Love|67|2009-10-06
+1C2h7mLntPSeVYciMRTF4a|album|Michael Jackson|3fMbdgg4jU18AjLCKBhRSm|1|30|Thriller 25 Super Deluxe Edition|78|1982-11-30
+0qxsfpy2VU0i4eDR9RTaAU|album|Michael Kiwanuka|0bzfPKdbXL5ezYW2z3UGQj|1|10|Love & Hate|65|2016-07-15
+2AvupjUeMnSffKEV05x222|album|Migos|6oMuImdp5ZcFhWP0ESe6mG|1|13|Culture|77|2017-01-27
+7fd7SEK25VS3gJAUgSwL6y|album|Migos|6oMuImdp5ZcFhWP0ESe6mG|1|24|Culture II|82|2018-01-26
+21XMv0TCsnhWPt7MNVvkzD|album|Miguel|360IAlyVv4PCEVjgyMZrxK|1|11|Kaleidoscope Dream|61|2012-09-28
+6W8ZsoinSMViZMh9aYK7gQ|album|Miguel|360IAlyVv4PCEVjgyMZrxK|1|16|Wildheart (Deluxe Version)|58|2015-06-26
+2spxrQq50aGqf9Barvc8fg|album|Mikal Cronin|6QobJ3vnalBTlsdOrvQTIt|1|10|MCII|30|2013-05-07
+4sb0eMpDn3upAFfyi4q2rw|album|Miles Davis|0kbYTNQb4Pb1rPbbaF0pT4|1|21|Kind Of Blue (Legacy Edition)|64|1959-08-17
+3RDqXDc1bAETps54MSSOW0|album|Miley Cyrus|5YGY8feqx7naU7z4HrwZM6|1|16|Bangerz (Deluxe Version)|77|2013-10-04
+3uczBfJFFSNjSiF8ScC1pA|album|Miranda Lambert|66lH4jAE7pqPlOlzUKbwA0|1|15|Revolution|61|2009-09-24
+653wRjqO0GOZPQPcXpeAXD|album|Mitski|2uYWxilOVlUdk4oV9DvwqK|1|14|Be the Cowboy|65|2018-08-17
+16i5KnBjWgUtwOO7sVMnJB|album|Mitski|2uYWxilOVlUdk4oV9DvwqK|1|11|Puberty 2|57|2016-06-17
+30WjNaR79shSTGB52IJTw0|album|Moses Sumney|5W10uJRsbt9bROJDKoI1Wn|1|11|Aromanticism|55|2017-09-22
+5p64XgvFREt1P6mC7Xl6XN|album|Mount Eerie|4Sw0SFu1fFdYXdAEVdrqnO|1|11|A Crow Looked at Me|45|2017-03-24
+5GYhXZgCMiQFkck0RREyCJ|album|Mount Eerie|4Sw0SFu1fFdYXdAEVdrqnO|1|12|Wind's Poem|24|2009
+4Blt0T4LKGdWreILkYZre3|album|Mumford & Sons|3gd8FJtBJtkRxdfbTu19U2|1|15|Babel (Deluxe Version)|67|2012-09-25
+6w5W6ZGTvDsppKUOiGMuMo|album|Mumford & Sons|3gd8FJtBJtkRxdfbTu19U2|1|12|Sigh No More|67|2009-10-02
+3McUmHqMv5K9JRdbBDP2RH|album|Napalm Death|3UqRgrDIQ208yNGiWKRMNt|1|14|Apex Predator - Easy Meat|34|2015-01-27
+21zH1ohnZ6T0g95ZnUTwBM|album|Natalie Prass|0EmUT6i9rTu9ZHy1Tl1iuX|1|9|Natalie Prass|29|2015-01-27
+56PXLjwRAZTqpZjM07FeR5|album|Neko Case|4Cedjq5BQL3MhapRvDpFED|1|15|The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You (Deluxe Edition)|40|2013-09-03
+4HUUHHXBXImwksfbSPqE7q|album|Nelly|2gBjLmx6zQnFGQJCAQpRgw|1|19|Nellyville|73|2002-06-25
+34xaLN7rDecGEK5UGIVbeJ|album|Nick Cave & The Bad Seeds|4UXJsSlnKd7ltsrHebV79Q|1|8|Skeleton Tree|50|2016-09-09
+3eZd2XbhLyPcgbgcsLTZh3|album|Nickelback|6deZN1bslXzeGvOLaLMOIF|1|11|All the Right Reasons|67|2005-09-26
+0GQ9AZBJSj109gmSdSrviC|album|Nickelback|6deZN1bslXzeGvOLaLMOIF|1|11|Dark Horse|71|2008-10-28
+2gMWwDIxxGIiblnv1pQHyd|album|Nickelback|6deZN1bslXzeGvOLaLMOIF|1|11|Here and Now (Audio Only Version)|65|2011-11-14
+5fKL7vMTXvhR9tov8Kqt3u|album|Nickelback|6deZN1bslXzeGvOLaLMOIF|1|10|Silver Side Up|70|2001-09-11
+51HDsvvActcDmYy7NQl6oL|album|Nicki Minaj|0hCNtLu0JehylgoiP8L4Gh|1|16|Pink Friday (Deluxe)|66|2010-01-01
+5ooCuPIk58IwSo6DRr1JCu|album|Nicki Minaj|0hCNtLu0JehylgoiP8L4Gh|1|19|The Pinkprint (Deluxe)|69|2014-12-15
+0tUJcqDuXHNkaPKLN0lQhT|album|Nicolas Jaar|5a0etAzO5V26gvlbmHzT9W|1|13|Space Is Only Noise|49|2011-01-31
+2guirTSEqLizK7j9i1MTTZ|album|Nirvana|6olE6TJLqED3rqDCT0FyPh|1|13|Nevermind (Remastered)|74|1991-09-26
+0KFPnm4Ow2L9BuivmWT3pu|album|No Doubt|0cQbJU1aAzvbEmTuljWLlF|1|15|Rock Steady|57|2001-12-11
+5fSlrmZPalwAAQDwu6shK2|compilation|No Doubt|0cQbJU1aAzvbEmTuljWLlF|1|15|The Singles Collection|61|2003-01-01
+7oHM3Sj0l2nXAzGAxW0KOt|album|Noname|1EpyA68dKpjf7jXmQL88Hy|1|11|Room 25|61|2018-09-14
+1JvoMzqg04nC29gam4Qaiq|album|Norah Jones|2Kx7MNY7cI1ENniW7vT30N|1|14|Come Away With Me|73|2002-02-26
+7GaAXgbFSpcJOiLlFGYyOL|album|Norah Jones|2Kx7MNY7cI1ENniW7vT30N|1|13|Feels Like Home|67|2004-01-01
+6hpBCxDD4f45hI0UMvOggI|album|Norah Jones|2Kx7MNY7cI1ENniW7vT30N|1|13|Not Too Late|56|2007-01-24
+1XJyLILxz1fdlZ8EqbL5jn|album|Okkervil River|5E7zSu46SqTmgKqsc0tFkY|1|30|Black Sheep Boy (10th Anniversary Edition)|38|2005-04-05
+4gCNyS7pidfK3rKWhB3JOY|album|One Direction|4AK6F7OLvEQ5QYCBNiQWHq|1|16|FOUR (Deluxe)|76|2014-11-17
+1gMxiQQSg5zeu4htBosASY|album|One Direction|4AK6F7OLvEQ5QYCBNiQWHq|1|17|Made In The A.M. (Deluxe Edition)|78|2015-11-13
+7p1fX8aUySrBdx4WSYspOu|album|One Direction|4AK6F7OLvEQ5QYCBNiQWHq|1|18|Midnight Memories (Deluxe)|78|2013-11-25
+5SxEsi1PNyo1XfEKDYcFKF|album|One Direction|4AK6F7OLvEQ5QYCBNiQWHq|1|17|Take Me Home: Yearbook Edition|77|2012-11-09
+53DrBEDi1AvhWOtCdljUiu|album|One Direction|4AK6F7OLvEQ5QYCBNiQWHq|1|13|Up All Night|65|2012-05-25
+2bbhW5ifCwOYM8DMkqoYBF|album|OneRepublic|5Pwc4xIPtQLFEnJriah9YJ|1|15|Native|70|2014-01-01
+1UsmQ3bpJTyK6ygoOOjG1r|album|OutKast|1G9G7WwrXka3Z1r7aIDjI7|1|40|Speakerboxxx/The Love Below|74|2003
+1LOJfNDxQhbpssKx7oM7at|album|P!nk|1KCSPY1glIKqW2TotWuXOR|1|14|Funhouse Deluxe Version|53|2008-10-24
+2dpS2uYlkzDsPjl3IZbNjD|compilation|P!nk|1KCSPY1glIKqW2TotWuXOR|1|21|Greatest Hits...So Far!!!|52|2010-11-12
+57wJKO7qrPw56iOEKhTmg2|album|P!nk|1KCSPY1glIKqW2TotWuXOR|1|18|M!ssundaztood (Deluxe Version)|41|2001
+2Q9oTK48eb85waX1fFJsvj|album|P!nk|1KCSPY1glIKqW2TotWuXOR|1|17|The Truth About Love|73|2012-09-18
+5hcHyM3KYY97gUZzfRlNZb|album|Pallbearer|2yeEmsTQMNHBlS5dhWtuD1|1|6|Foundations of Burden|31|2014-08-19
+6twKQ0EsUJHVlAr6XBylrj|album|Panic! At The Disco|20JZFwl6HVl6yg8a4H3ZqK|1|11|Death of a Bachelor|78|2016-01-15
+4q1HNSka8CzuLvC8ydcsD2|album|Parliament|5SMVzTJyKFJ7TUb46DglcH|1|7|Mothership Connection|57|1975-12-15
+198JgCiP5oHBycAKedKHRm|album|Parquet Courts|23NIwARd4vPbxt3wwNnJ6k|1|20|Light Up Gold + Tally All The Things That You Broke|42|2013-10-15
+7xg7u99lilTCPbaRfnYuy6|album|Patti Smith|0vYkHhJ48Bs3jWcvZXvOrP|1|18|Horses (Legacy Edition)|50|1975
+3wni3d7CuzKXgKENBGD61b|album|Patty Griffin|7tNLRmiAN8hpmFrbIHiHsy|1|12|American Kid|29|2013-05-07
+71hpzCnp9lYUZgV4rUtdvT|album|Paul Simon|2CvCyf1gEVhI0mX6aFXmVI|1|10|So Beautiful or So What|37|2011-04-08
+1ujZpTYHOc5XS0JIBKjUaI|album|Paul Simon|2CvCyf1gEVhI0mX6aFXmVI|1|11|Stranger To Stranger|41|2016-06-03
+0mbzS8xzbJj3sK2n0g6nPh|album|Paul Weller|7Lf3LOZp3U3u2f6cWMd3AH|1|29|A Kind Revolution (Deluxe)|37|2017-05-12
+75phvGRRG8iVqXn50R9Kie|album|Paul Weller|7Lf3LOZp3U3u2f6cWMd3AH|1|16|Wake Up the Nation|6|2010-06-01
+7zduRJgS6v79QmNUhKGozu|album|Paula Abdul|4PpmBoqphQusNFsxuVKb6j|1|10|Forever Your Girl|57|1988-01-01
+5B4PYA7wNN4WdEXdIJu58a|album|Pearl Jam|1w5Kfo2jwwIPruYS2UWh56|1|11|Ten|77|1991-08-27
+09iUbAL6vQRsL6eLvKtoKB|album|Pedro The Lion|4ApdWjZjftqD77Vh6qDbCr|1|8|Winners Never Quit (Remastered)|26|2000-03-28
+3sId8sOH47yqOWopzbEtJn|album|Pentatonix|26AHtbjWKiwYzsoGoUZq53|1|16|A Pentatonix Christmas Deluxe|57|2017-12-06
+082VlX7cBth0o8xqDGclNn|album|Pentatonix|26AHtbjWKiwYzsoGoUZq53|1|16|That's Christmas To Me (Deluxe Edition)|54|2015-10-30
+28FxHb9OJRzAch4DwUUsaT|album|Perfume Genius|2ueoLVCXQ948OfhVvAy3Nn|1|11|Too Bright|49|2014-09-22
+60xS3EDuOFXLMJLSjwSUZa|album|Pet Shop Boys|2ycnb8Er79LoH2AsR5ldjh|1|10|Electric|42|2013-07-15
+3719jlsd41vKAiYWrXNt9o|album|Peter Frampton|0543y7yrvny4KymoaneT4W|1|19|Frampton Comes Alive! (Deluxe Edition)|58|1976
+0BDKAyEOyGkWLNkXIf53S3|album|Peter Hammill|7uBH52YnXUbJ0ssoyNqQTB|1|11|Nadir's Big Chance|24|1975
+773GsAWk3z8mGgMDeR7n1A|album|Phillip Phillips|6p5JxpTc7USNnBnLzctyd4|1|18|The World From The Side Of The Moon (Deluxe)|64|2013-01-01
+19C3Ferv8ZiWTOpCfxN2S1|album|Phosphorescent|57kIMCLPgkzQlXjblX7XXP|1|22|Muchacho De Lujo (Deluxe Edition)|53|2013-10-29
+4LH4d3cOWNNsVw41Gqt2kv|album|Pink Floyd|0k17h0D3J5VfsdmQ1iZtE9|1|10|The Dark Side of the Moon|74|1973-03-01
+0bCAjiUamIFqKJsekOYuRw|album|Pink Floyd|0k17h0D3J5VfsdmQ1iZtE9|1|5|Wish You Were Here|70|1975-09-12
+2f8Rfpdol5jrJe3OL4YH6k|album|PJ Harvey|12VaqyEhgwDRuFfEqbnrpz|1|13|Let England Shake|32|2011-02-15
+6trNtQUgC8cgbWcqoMYkOR|album|Post Malone|246dkjvS1zLTtiykXe5h60|1|18|beerbongs & bentleys|92|2018-04-27
+5s0rmjP8XOPhP6HhqOhuyC|album|Post Malone|246dkjvS1zLTtiykXe5h60|1|18|Stoney (Deluxe)|88|2016-12-09
+1jy9Nciz47PNHiUB7FxAjK|album|Prince|5a2EaR3hamoenG9rDuVn8j|1|12|Musicology|41|2004-04-20
+1X1So5oX4TCFGdK6BN9UXs|album|Prince|5a2EaR3hamoenG9rDuVn8j|1|15|Originals|55|2019-06-07
+5oQClEU6YXiVoaz4ZTmOOO|compilation|Prince|5a2EaR3hamoenG9rDuVn8j|1|17|The Very Best Of Prince|52|2001-07-30
+5w1LR7cbTKEoCfgB98rkgR|album|Protomartyr|2YFBqMMiIIL4XyiEwqySUQ|1|12|Relatives In Descent|43|2017-09-29
+6ReX2BMiDkmAojRLeJll8k|album|Protomartyr|2YFBqMMiIIL4XyiEwqySUQ|1|12|The Agent Intellect|40|2015-10-09
+03Mx6yaV7k4bsEmcTH8J49|album|Public Enemy|6Mo9PoU6svvhgEum7wh2Nd|1|16|It Takes A Nation Of Millions To Hold Us Back|52|1988-04-14
+4oWz3E9jTrBe9sVkiX2sJ5|album|Puddle Of Mudd|3dXaa6jwM7B52GZpaJEIr5|1|12|Come Clean|66|2001-08-28
+07bIdDDe3I3hhWpxU6tuBp|album|Pusha T|0ONHkAv9pCAFxb0zJwDNTy|1|7|DAYTONA|68|2018-05-25
+35Ea7OWXZPZB1vAPiaEGOM|album|R. Kelly|2mxe0TnaNL039ysAj51xPQ|1|17|Chocolate Factory|64|2003
+6vuykQgDLUCiZ7YggIpLM9|album|Radiohead|4Z8W4fKeB5YxbusRsdQVPb|1|11|A Moon Shaped Pool|64|2016-05-08
+64B2AghiyK1TbiTp8DmBeX|album|Raekwon|2yQf6b8hxahZaT5dHlWaB1|1|22|Only Built 4 Cuban Linx 2|34|2009-01-01
+5uYDAwW0SZgcfOFkxrST64|album|Ramones|1co4F2pPNH8JjTutZkmgSm|1|78|Ramones - 40th Anniversary Deluxe Edition (Remastered)|64|1976-04-23
+26orrccGqNXm1m6mr9OO91|album|Raphael Saadiq|6g0Wah2YFtb1rFgKhUktlo|1|10|Stone Rollin'|42|2011-03-25
+5NH87jdrVjOHt8gDMHT1Wy|album|Rascal Flatts|0a1gHP0HAqALbEyxaD5Ngn|1|12|Feels Like Today|62|2004-01-01
+5XPdkIryKSpTKW21HUtvV0|album|Rascal Flatts|0a1gHP0HAqALbEyxaD5Ngn|1|14|Me And My Gang|70|2006-01-01
+7vb2No5vWyz3UhcMA9UdjG|album|Rascal Flatts|0a1gHP0HAqALbEyxaD5Ngn|1|11|Nothing Like This|53|2010-01-01
+2E36HmDrQ5ALEzjESoRQ12|album|Rascal Flatts|0a1gHP0HAqALbEyxaD5Ngn|1|11|Unstoppable|55|2009-01-01
+7dYc03tSIjcF4dLJGXMS3f|album|Ray Charles|1eYhYunlNJlDoQhtYBvPsi|1|12|Genius Loves Company|45|2004-01-01
+7xl50xr9NDkd3i2kBbzsNZ|album|Red Hot Chili Peppers|0L8ExT028jH3ddEcZwqJJ5|1|29|Stadium Arcadium|78|2006-05-09
+7KqisP47OG3PCtbLknLJPT|album|Rick Wakeman|0mkcYaXUbJUs5mJointuzB|1|6|The Six Wives Of Henry VIII|35|1973-01-23
+4UlGauD7ROb3YbVOFMgW5u|album|Rihanna|5pKCCKE2ajJHZ9KAiaK11H|1|16|ANTI (Deluxe)|79|2016-01-28
+3JSWZWeTHF4HDGt5Eozdy7|album|Rihanna|5pKCCKE2ajJHZ9KAiaK11H|1|15|Good Girl Gone Bad: Reloaded|81|2008-06-02
+35dJsQDEr549O5DTFUy3uM|album|Rihanna|5pKCCKE2ajJHZ9KAiaK11H|1|11|Loud|67|2010-11-15
+7uGmyYwDFJbSc1xs4hkEs2|album|Rihanna|5pKCCKE2ajJHZ9KAiaK11H|1|13|Rated R|68|2009-11-20
+1Kw1bVd07oRqcjrcjQKC8T|album|Rihanna|5pKCCKE2ajJHZ9KAiaK11H|1|11|Talk That Talk|69|2011-11-19
+4eddbruVtOqw8khwxSH6H2|album|Rihanna|5pKCCKE2ajJHZ9KAiaK11H|1|17|Unapologetic (Deluxe)|67|2012-12-11
+6QwHn86Rw53qli3Y6b41Rd|compilation|Robert Johnson|0f8MDDzIc6M4uH1xH0o0gy|1|41|The Complete Recordings|36|1990
+55ErdDg54WTAEySb0r7yzb|album|Robin Thicke|0ZrpamOxcZybMHGg1AYtHP|1|16|The Evolution of Robin Thicke|56|2006-01-01
+0Rzg7fqyWE39G6wKipxrns|album|Robyn|6UE7nl9mha6s8z0wFQFIZ2|1|15|Body Talk|58|2010-01-01
+6WZjFvrzwq8SOGe0r8R3qk|album|Robyn|6UE7nl9mha6s8z0wFQFIZ2|1|9|Honey|57|2018-10-26
+5TyZEJV1RvYB6qdbDXHvKF|album|Rosanne Cash|6lx6XS8umFqYRVbBErx9fE|1|14|The River & The Thread (Deluxe)|34|2013-01-01
+4Kg4MRg91XfDHbI6Sc0CWN|album|Run The Jewels|4RnBFZRiMLRyZy0AzzTg2C|1|10|Run The Jewels|55|2013-06-26
+4Loc7NtCAo9mypHO6kbviD|album|Run The Jewels|4RnBFZRiMLRyZy0AzzTg2C|1|12|Run The Jewels 2|62|2014-10-24
+744i0LypfMwHHrKhzsqAx0|album|Rush|2Hkut4rAAyrQxRdof7FVJq|1|12|Clockwork Angels|42|2012-06-08
+2evkzWDPHn96GZ0In9GG1w|album|Russian Circles|0AZ3VR0YbFcS0Kgei7L2QF|1|6|Empros|36|2011-10-25
+3QzXOFN7Wh4WgilnraBYAU|album|Sade|47zz7sob9NUcODy0BTDvKx|1|10|Soldier of Love|56|2010-02-05
+3MMoy4IAK7L2dyzUyIQ1la|album|Sam Amidon|6TTJ0xLPPNDyv4bXyukzU4|1|11|I See the Sign|29|2010-03-29
+0V7c0hnrLUFJyHNtjiAT2E|album|Sam Hunt|2kucQ9jQwuD8jWdtR9Ef38|1|10|Montevallo|74|2014-10-27
+08jWgM4vSkTose4blKBWov|album|Sam Smith|2wY79sveU1sp5g7SokKOiI|1|10|In The Lonely Hour|82|2014-01-01
+3XftSbguntyRTBQaGItmfK|album|Sam Smith|2wY79sveU1sp5g7SokKOiI|1|14|The Thrill Of It All (Special Edition)|75|2017-11-03
+2gUSWVHCOerKhJHZRwhVtN|album|Sampha|2WoVwexZuODvclzULjPQtm|1|10|Process|62|2017-02-03
+10aiDpdFGyfCFEcqpx6XTq|album|Santana|6GI52t8N5F02MxU0g5U69P|1|14|Supernatural (Remastered)|69|1999-06-15
+27WCDmHjVFzzdhxjqMKDgD|album|Screaming Females|3pZ666b6CyO1KGpVYirY0t|1|15|All at Once|40|2018-02-23
+3BxDtaLOiianAtmjRfNXGt|album|Screaming Females|3pZ666b6CyO1KGpVYirY0t|1|14|Ugly|29|2012
+3nAwSh2fcp3M8voQKZS2as|album|Sean Paul|3Isy6kedDrgPYoTS1dazA9|1|20|Dutty Rock|69|2002-11-12
+7lDBDk8OQarV5dBMu3qrdz|album|Selena Gomez|0C8ZW7ezQVs4URX5aX7Kqx|1|14|Revival (Deluxe)|68|2015-10-09
+2CPlbYjUuko95fQ4krzzIB|album|Sepalcure|2MPSxDniHj2BKV7GSSOFMA|1|10|Sepalcure|22|2011-11-21
+0lYJfrAdIT65115h0CWoAg|album|serpentwithfeet|1O9iHQjrVuiAYOJFCBeFSl|1|11|soil|45|2018-06-08
+5fxYu3rqjCNTSPKN8mtEl2|album|Sex Pistols|1u7kkVrr14iBvrpYnZILJR|1|12|Never Mind The Bollocks, Here's The Sex Pistols|52|1977-10-27
+4DyMK9x2gnmRkRa16zHaEV|album|Shakira|0EmeFodog0BfCgMzAIvKQp|1|13|Laundry Service|68|2001-11-13
+5ppnlEoj4HdRRdRihnY3jU|album|Shakira|0EmeFodog0BfCgMzAIvKQp|1|13|Oral Fixation, Vol. 2 (Expanded Edition)|73|2005-11-28
+4UMe0Ods7kygK6OISasZe9|album|Shania Twain|5e4Dhzv426EvQe3aDb64jL|1|16|Come On Over|72|1997-11-04
+02SQS3hERbgOjnZc0hmWKk|compilation|Shania Twain|5e4Dhzv426EvQe3aDb64jL|1|21|Greatest Hits|64|2004-01-01
+0dXnuPLFLPT9fnj6vIUa1G|album|Shania Twain|5e4Dhzv426EvQe3aDb64jL|1|19|Up!|53|2002-01-01
+7vpplH7g4IZXRshDgWTqUn|album|Sharon Jones & The Dap-Kings|6LufpoVlIYKQCu9Gjpk8B7|1|11|Soul of a Woman|51|2017-11-17
+0F1pMhF8Vy74nKkQeLBfrd|album|Sharon Van Etten|2wJ4vsxWd7df7dRU4KcoDe|1|11|Are We There|59|2014-05-27
+3wBabo4pmzsYjALMSKY7Iq|album|Shawn Mendes|7n2wHs1TKAczGzO7Dd2rGr|1|16|Illuminate (Deluxe)|83|2017-04-20
+7Kw98O8x1Urwo139vaO0fJ|compilation|Sheryl Crow|4TKTii6gnOnUXQHyuo9JaD|1|16|The Very Best Of|48|2003-01-01
+2eV6DIPDnGl1idcjww6xyX|album|Sia|5WUlDfRSoLAfcVSX1WnrxN|1|19|This Is Acting (Deluxe Version)|76|2016-10-21
+1l7gMbzE7RRAdYddJSfM5B|album|Sleater-Kinney|4wLIbcoqmqI4WZHDiBxeCB|1|10|No Cities to Love|43|2015-01-20
+1IWkF6zpOq73txmrYpljIT|album|Sleigh Bells|59pWgeY26Q6yJy37QvJflh|1|11|Treats|49|2010-06-01
+3Yko2SxDk4hc6fncIBQlcM|album|Solange|2auiVi8sUZo17dLy1HwrTU|1|21|A Seat at the Table|65|2016-09-30
+0CKiI5WdJ5rzUIK8hyD3SY|album|SOPHIE|5a2w2tgpLwv26BYJf2qYwu|1|9|OIL OF EVERY PEARL'S UN-INSIDES|47|2018-06-14
+1HIJD84nu66Dk9wykAPhNB|album|Speedy Ortiz|6YHfq8Pg3lZPo1u0PaQ8ob|1|12|Foil Deer|29|2015-04-21
+3x2jF7blR6bFHtk4MccsyJ|album|Spice Girls|0uq5PttqEjj3IH1bzwcrXF|1|10|Spice|76|1996-01-01
+4RoOGpdrgfiIUyv0kLaC4e|album|St. Vincent|7bcbShaqKdcyjnmv4Ix8j6|1|13|MASSEDUCTION|61|2017-10-13
+2FtneRtIF1I5HPBsIxSqf0|album|St. Vincent|7bcbShaqKdcyjnmv4Ix8j6|1|16|St. Vincent (Deluxe Edition)|48|2015-02-09
+1Lci4bx7JIuCC8pnBNX7ds|album|St. Vincent|7bcbShaqKdcyjnmv4Ix8j6|1|11|Strange Mercy|49|2011-09-12
+38Bi4UTXA7jSDGrCVkUmHZ|album|Steve Gunn|7uLXW75DlTRahz2WKJZGeO|1|8|Way Out Weather|33|2014-10-07
+5jgI8Eminx9MmLBontDWq8|album|Stevie Wonder|7guDJrEfX3qb6FEbdPA5qi|1|9|Innervisions|61|1973-08-03
+2EdAZFKawR42D2reoNCNgP|album|Strand of Oaks|0t4oHObO3FImWvIhMimaSL|1|10|HEAL|34|2014-06-24
+5I3UdCxtIh6hkQ7rMPUvA4|album|Sturgill Simpson|3vDpQbGnzRbRVirXlfQagB|1|9|A Sailor's Guide to Earth|59|2016-04-15
+7j8lfKDdL7vE8OAM4cA3W3|album|Sufjan Stevens|4MXUO7sVCaFgFjoTI5ox5c|1|22|Illinois|61|2005-07-05
+0U8DeqqKDgIhIiWOdqiQXE|album|Sufjan Stevens|4MXUO7sVCaFgFjoTI5ox5c|1|11|Carrie & Lowell|65|2015-03-31
+75lIR4lwBkSh39CpLdi8hb|album|Sugarland|0hYxQe3AK5jBPCr5MumLHD|1|12|Love On The Inside|50|2008-01-01
+4pC2URLdvle8V6Um4qxh46|album|Sun Kil Moon|4G0XDEk7RbA4BBCTs917U9|1|11|Benji|47|2014-02-11
+5g5JAnBYxmaTMVvh6RnA1c|album|Sunn 0)))|2e7hYqRjL82c1nIoREHc4J|1|4|Monoliths And Dimensions|25|2009-05-26
+4YY0ZHAHm3tnrAcltjLkQF|album|Super Furry Animals|0FOcXqJgJ1oq9XfzYTDZmZ|1|12|Dark Days/Light Years|24|2009-03-16
+7ItTgSAt7No6Yv0aDu2nqU|album|Susan Boyle|1qAuetfG6mhtDgsVIffWQc|1|12|I Dreamed A Dream|40|2009-11-23
+2SHlXY3Z9gKK2MPExaWR8M|album|Susan Boyle|1qAuetfG6mhtDgsVIffWQc|1|10|The Gift|32|2010-11-05
+5hXTuGzaOREp5WHYGQXXB1|album|Swans|79S80ZWgVhIPMCHuvl6SkA|1|11|The Seer|30|2012-08-28
+4dq7JNcHKrnozzFQg5bpmn|album|Swans|79S80ZWgVhIPMCHuvl6SkA|1|10|To Be Kind|37|2014-05-13
+76290XdXVF9rPzGdNRWdCh|album|SZA|7tYKF4w9nC0nq9CsPZTHyP|1|14|Ctrl|79|2017-06-09
+2X7s6Gt8Xz2qEwlw4GVcQo|album|T.I.|4OBJLual30L7gRl5UkeRcT|1|17|King|59|2006-03-27
+5PfepkNWgRR2DI02Y8AawC|album|T.I.|4OBJLual30L7gRl5UkeRcT|1|16|Paper Trail|73|2008-09-08
+79dL7FLiJFOO0EoehUHQBv|album|Tame Impala|5INjqkS1o8h1imAzPqGZBb|1|13|Currents|80|2015-07-17
+3C2MFZ2iHotUQOSBzdSvM7|album|Tame Impala|5INjqkS1o8h1imAzPqGZBb|1|12|Lonerism|72|2012-01-01
+2QJmrSgbdM35R67eoGQo4j|album|Taylor Swift|06HL4z0CvFAxyc27GXpf02|1|13|1989|72|2014-10-27
+3EzFY9Rg0PpbADMth746zi|album|Taylor Swift|06HL4z0CvFAxyc27GXpf02|1|26|Fearless (Big Machine Radio Release Special)|72|2008-11-10
+4jTYApZPMapg56gRycOn0D|album|Taylor Swift|06HL4z0CvFAxyc27GXpf02|1|32|Red (Big Machine Radio Release Special)|76|2012-10-21
+6DEjYFkNZh67HP7R9PSZvv|album|Taylor Swift|06HL4z0CvFAxyc27GXpf02|1|15|reputation|80|2017-11-10
+5MfAxS5zz8MlfROjGQVXhy|album|Taylor Swift|06HL4z0CvFAxyc27GXpf02|1|14|Speak Now|65|2010-10-25
+7mzrIsaAjnXihW3InKjlC3|album|Taylor Swift|06HL4z0CvFAxyc27GXpf02|1|15|Taylor Swift|66|2006-10-24
+6PWXKiakqhI17mTYM4y6oY|album|The 1975|3mIj9lX2MWuHmhNCA7LSCW|1|15|A Brief Inquiry Into Online Relationships|78|2018-11-30
+1zhQKiQIOlYYbPmx1eHDD7|album|The Alan Parsons Project|2m62cc253Xvd9qYQ8d2X3d|1|24|I Robot (Legacy Edition)|48|1977-06-01
+0Y5Wlv2OJKaW0uDJ5HnUfy|album|The Allman Brothers Band|4wQ3PyMz3WwJGI5uEqHUVR|1|7|At Fillmore East|47|1971-07-01
+6fFp2F91noBeodV88bRwTD|album|The Antlers|5o8Wylae9k23IEJMIiwd8s|1|10|Hospice|45|2009-06-23
+3Qre72w4Yc9Ib2UeCgTaOK|album|The Avett Brothers|196lKsA13K3keVXMDFK66q|1|20|Mignonette|51|2004-07-27
+0ky5kdvfPxSmSpj03hpSAE|album|The Band|4vpDg7Y7fU982Ds30zawDA|1|11|Music From Big Pink (Remastered)|64|1968-07-01
+0nPrnmv6maJLLaPpy1cWGB|album|The Band|4vpDg7Y7fU982Ds30zawDA|1|19|The Band (Expanded Edition)|59|1969-09-22
+6GphKx2QAPRoVGWE9D7ou8|album|The Beach Boys|3oDbviiivRWhXwIE8hxkVV|1|27|Pet Sounds (Original Mono & Stereo Mix Versions)|70|1966-06-16
+0ETFjACtuP2ADo6LFhL6HN|album|The Beatles|3WrFJ7ztbogyGnTHbHJFl2|1|17|Abbey Road (Remastered)|80|1969-09-26
+1Ye7yrA7vAlQnoooj8yDXb|compilation|The Beatles|3WrFJ7ztbogyGnTHbHJFl2|1|28|Love|60|2006-11-17
+3KzAvEXcqJKBF97HrXwlgf|album|The Beatles|3WrFJ7ztbogyGnTHbHJFl2|1|14|Please Please Me (Remastered)|73|1963-03-22
+3PRoXYsngSwjEQWR5PsHWR|album|The Beatles|3WrFJ7ztbogyGnTHbHJFl2|1|14|Revolver (Remastered)|70|1966-08-05
+50o7kf2wLwVmOTVYJOTplm|album|The Beatles|3WrFJ7ztbogyGnTHbHJFl2|1|14|Rubber Soul (Remastered)|72|1965-12-03
+6QaVfG1pHYl1z15ZxkvVDW|album|The Beatles|3WrFJ7ztbogyGnTHbHJFl2|1|13|Sgt. Pepper's Lonely Hearts Club Band (Remastered)|71|1967-06-01
+1klALx0u4AavZNEvC4LrTL|album|The Beatles|3WrFJ7ztbogyGnTHbHJFl2|1|30|The Beatles (Remastered)|73|1968-11-22
+2szeSQtOcJgRhDXmTS3SIf|album|The Black Eyed Peas|1yxSLGMDHlW21z4YXirZDS|1|15|Monkey Business|64|2005-01-01
+36fdxiOzdlmsrHgGcfvqUJ|album|The Black Eyed Peas|1yxSLGMDHlW21z4YXirZDS|1|15|THE E.N.D. (THE ENERGY NEVER DIES)|66|2009-01-01
+7qE6RXYyz5kj5Tll7mJU0v|album|The Black Keys|7mnBLXK823vNxN3UWB7Gfz|1|15|Brothers|67|2010-05-18
+5DLhV9yOvZ7IxVmljMXtNm|album|The Black Keys|7mnBLXK823vNxN3UWB7Gfz|1|11|El Camino|70|2011-12-06
+1VtXF7X88haeELGGHPnn1m|album|The Bug|213i4NKah1DX9q0FNiKsuw|1|12|Angels & Devils|31|2014-08-25
+4JPguzRps3kuWDD5GS6oXr|album|The Chainsmokers|69GGBxA162lTqCwzJG5jLp|1|12|Memories...Do Not Open|78|2017-04-07
+6FCzvataOZh68j8OKzOt9a|album|The Clash|3RGLhK1IP9jnYFH4BRFJBS|1|19|London Calling|69|1979
+4U3lzRwkzx4wB2ay2PLp3N|album|The Clientele|3xZBpeXHkSjTKQIR1OeKN0|1|12|Bonfires on the Heath|31|2009-10-06
+4yngOTPwtS3iypFBwU5qqR|album|The Decemberists|7ITd48RbLVpUfheE7B86o2|1|17|Hazards Of Love|41|2009-01-01
+52hA4AUoiCwTuXXuClt0SR|album|The Dillinger Escape Plan|7IGcjaMGAtsvKBLQX26W4i|1|11|Dissociation|39|2016-10-14
+1jWmEhn3ggaL6isoyLfwBn|album|The Doors|22WZ7M8sxp5THdruNY3gXt|1|11|The Doors|70|1967-01-04
+4XLwMmgcC0cGQ2lDziGaDa|album|The Felice Brothers|4Ajgo7nAsTzjSFymIfBjZ1|1|13|Yonder Is The Clock|28|2009-04-06
+3fASgexUtIr2a7jAGaIeNP|album|The Field|23MIhFHpoOuhtEHZDrrnCS|1|7|Looping State Of Mind|36|2011-09-05
+49LA20VMk65fQyEaIzYdvf|album|The Flaming Lips|16eRpMNXSQ15wuJoeqguaB|1|11|Yoshimi Battles The Pink Robots (U.S. Version)|59|2002-05-13
+4PrPbmm0gKvaD3rerOXFg8|album|The Game|0NbfKEOTQCcwd6o7wSDOHI|1|18|The Documentary|71|2005
+2iMuDUx0AkuUemuFtmhUG1|album|The Haxan Cloak|543jOiqi5zLNZIOv7rA6rg|1|9|Excavation|29|2013
+1E5ItjtwtUwX7DsiS0pVDm|album|The Honeydogs|3EtHIX35c5ZIc8t7OAGCra|1|13|10,000 Years|8|2015-07-14
+1xY0RQRX9rLE7PpL3hNZO3|album|The Horrors|7EFB09NxZrMi9pGlOnuBpd|1|10|Skying|36|2011-08-09
+5F7t2oVAxnazEU21nbUZGc|album|The Horrors|7EFB09NxZrMi9pGlOnuBpd|1|10|V|50|2017-09-22
+4GQmfMtt1JhIQLK3L6p5lo|album|The Jam|2P560DaOMNDUACoH8ZhOCR|1|60|Setting Sons (Super Deluxe)|51|1979-11-17
+7rSZXXHHvIhF4yUFdaOCy9|album|Jimi Hendrix|776Uo845nYHJpNaStv1Ds4|1|17|Are You Experienced|70|1967-05-12
+4undIeGmofnAYKhnDclN1w|album|The Killers|0C0XlULifJtAgn6ZNCW2eu|1|11|Hot Fuss|74|2004-01-01
+0YgkR96bK9JSHcj236W9ZK|album|The Kinks|1SQRv42e4PjEYfPhS0Tk9E|1|15|The Kinks Are The Village Green Preservation Society (2018 Stereo Remaster)|52|1968-11-22
+6GWQ6fq8krujlglglMPyPu|album|The Knife|7eQZTqEMozBcuSubfu52i4|1|13|Shaking The Habitual|31|2013-04-05
+5fY8mYgYGkyaJ9XvVOzVQA|album|The Lumineers|16oZKvXb6WkQlVAjwo2Wbg|1|15|Cleopatra (Deluxe)|62|2016-04-08
+6NWYmlHxAME5KXtxrTlUxW|album|The Lumineers|16oZKvXb6WkQlVAjwo2Wbg|1|11|The Lumineers|68|2012-04-03
+3ZTNq36NEuAdPLwkey7z6C|album|The Moody Blues|5BcZ22XONcRoLhTbZRuME1|1|21|In Search Of The Lost Chord|49|1968-07-26
+2DL7AR6nEM3bhwNy9zHuZa|album|The Mountain Goats|3hyGGjxu73JuzBa757H6R5|1|14|Tallahassee|49|2002
+36VJqCEgUg3nj0Eyxtc1av|album|The National|2cCUtGK9sDU2EoElnk0GNB|1|19|High Violet (Expanded Edition)|59|2010-11-22
+6zG9PHw8dlMLIyRE9TEGGk|album|The National|2cCUtGK9sDU2EoElnk0GNB|1|12|Sleep Well Beast|63|2017-09-08
+2JhR4tjuc3MIKa8v2JaKze|album|The National|2cCUtGK9sDU2EoElnk0GNB|1|13|Trouble Will Find Me|66|2013-05-27
+5x8e8UcCeOgrOzSnDGuPye|album|The Pussycat Dolls|6wPhSqRtPu1UhRCDX5yaDJ|1|12|PCD|65|2005-01-01
+12rfrkN4eZOpmJUmVzE84M|album|The Raconteurs|4wo1267SJuUfHgasdlfNfc|1|12|Help Us Stranger|61|2019-06-21
+5U4dnRZsfW8NmwBBkELFPh|album|The Rolling Stones|22bE4uQ6baNwSHPVcDxLCe|1|18|Exile On Main Street (2010 Re-Mastered)|60|1972-05-12
+4l4u9e9jSbotSXNjYfOugy|album|The Rolling Stones|22bE4uQ6baNwSHPVcDxLCe|1|9|Let It Bleed|69|1969-12-05
+25sYZjutddzUpXNbeQ7bEC|album|The Roots|78xUyw6FkVZrRAtziFdtdu|1|14|How I Got Over|53|2010-06-22
+0cwlEeMEkvdoiPNJxlzHtI|album|The Roots|78xUyw6FkVZrRAtziFdtdu|1|14|Undun|42|2011-12-02
+155OAoTAYR4Uu0LpSMvy5W|album|The Turtles|2VIoWte1HPDbZ2WqHd2La7|1|14|The Turtles Present The Battle of the Bands|48|1968-11
+4xwx0x7k6c5VuThz5qVqmV|album|"The Velvet Underground|Nico"|"1nJvji2KIlWSseXRSlNYsC|0IwlY33zbBXN7zlS9DP2Cj"|2|11|The Velvet Underground & Nico 45th Anniversary|63|1967-03-12
+14xxjLlbGy8ACm4MorBjD5|album|The War On Drugs|6g0mn3tzAds6aVeUYRsryU|1|10|Lost In The Dream|62|2014-03-18
+0P3oVJBFOv3TDXlYRhGL7s|album|The Weeknd|1Xyo4u8uXC1ZmMpatF05PJ|1|14|Beauty Behind The Madness|81|2015-08-28
+5EbpxRwbbpCJUepbqVTZ1U|album|The Weeknd|1Xyo4u8uXC1ZmMpatF05PJ|1|30|Trilogy|76|2012-01-01
+2ODvWsOgouMbaA5xf0RkJe|album|The Weeknd|1Xyo4u8uXC1ZmMpatF05PJ|1|18|Starboy|84|2016-11-25
+2miMVTH3qNA49YD2BUaIWK|album|The Who|67ea9eGLXYMsO2eYQRui3w|1|42|Quadrophenia (Super Deluxe Edition)|49|1973-10-19
+5MqyhhHbT13zsloD3uHhlQ|album|The Who|67ea9eGLXYMsO2eYQRui3w|1|29|Who's Next|72|1971-08-14
+2PXy9USZAoTSdtrxfkPBnl|album|The xx|3iOvXCl6edW5Um0fXEBRXy|1|10|I See You|65|2017-01-13
+2rmMeEq5D1Bg7YFRwtHBDr|album|The xx|3iOvXCl6edW5Um0fXEBRXy|1|11|xx|61|2009-08-18
+4ykbJPI8MPscFzROE8dqLy|album|Thomas Rhett|6x2LnllRG5uGarZMsD4iO8|1|13|Tangled Up|72|2015-01-01
+6Iu8toVsvCc3I4INxYiVIy|album|Tim Hecker|1qiwaJwjKod5WhcYZ76O1B|1|12|Ravedeath, 1972|36|2011-02-14
+3GzIvKYXNOBViT8TveArjx|album|Tim Hecker|1qiwaJwjKod5WhcYZ76O1B|1|12|Virgins|33|2013-10-14
+0os1Gz3XMM6dduZSMxVuXs|album|Tim McGraw|6roFdX1y5BYSbp60OTJWMd|1|16|Live Like You Were Dying|58|2004-08-17
+76TexugJVi7Eg8suRNpQg6|album|Tim McGraw|6roFdX1y5BYSbp60OTJWMd|1|15|Tim McGraw And The Dancehall Doctors|51|2002-11-26
+1T0sA1dBhet0q3KQlklEhL|album|Tinariwen|2sf2owtFSCvz2MLfxmNdkb|1|14|Imidiwan: Companions|18|2009-08-29
+5U09FQWagzAU5HPmufUAlU|album|Titus Andronicus|5lJ4XQ2hlPlxACN7q3xKL1|1|10|The Monitor|37|2010-03-09
+5GbASKPwYwyJrNP9PqeXEE|album|Toby Keith|2bA6fzP0lMAQ4kz6CF61w8|1|14|Greatest Hits 2|50|2004-01-01
+7xPAsIGxs8It3pVWnZEHan|album|Toby Keith|2bA6fzP0lMAQ4kz6CF61w8|1|12|Shock 'N Y'all|59|2003-11-04
+7ExectJocqn8sMKq4Tn4LY|album|Toby Keith|2bA6fzP0lMAQ4kz6CF61w8|1|13|Unleashed|63|2002-01-01
+3pOUqq2uBMlTl5fw4VIJPh|album|Todd Snider|6uXJm6sZx9IVPrN2laTOP5|1|12|The Excitement Plan|22|2009-06-09
+5kngzyNwERbKiQDvVwsgMt|album|Tom Waits|7x83XhcMbOTl1UdYsPTuZM|1|16|Bad As Me (Deluxe Edition Remastered)|46|2011-10-25
+4m2nF2XI6ZF6qhUXoYwmJu|album|Torche|4PxqJghOAEvatt0scJvili|1|13|Harmonicraft|35|2012-04-24
+2Qs1H2KjF6Bk2lSgFjQpOj|album|Touché Amoré|16QCJENzcdhwka9bTKYMVB|1|12|Is Survived By|39|2013-09-24
+41GuZcammIkupMPKH2OJ6I|album|Travis Scott|0Y5tJX1MQlPlqiwlOH1tJY|1|17|ASTROWORLD|88|2018-08-03
+42WVQWuf1teDysXiOupIZt|album|Travis Scott|0Y5tJX1MQlPlqiwlOH1tJY|1|14|Birds In The Trap Sing McKnight|81|2016-09-16
+7rBLvpL7ZWi1YCSXSLUZKF|album|Tune-Yards|0asVlqTLu3TimnYVyY5Jxi|1|10|W H O K I L L|49|2011-04-18
+3cQO7jp5S9qLBoIVtbkSM1|album|Twenty One Pilots|3YQKmKGau1PzlVlkL1iodx|1|14|Blurryface|84|2015-05-15
+5FJNfe8y08XaQAzOquOgV9|album|Twin Shadow|6fLrPFLWLSCrp7gcTZXcKb|1|11|Forget|39|2010-01-01
+6QhMtcOQO98vzhYdzfjRAs|album|Ty Segall Band|5iFEjq22lxpgvzhpblcc68|1|11|Slaughterhouse|40|2012-06-26
+2nkto6YNI4rUYTLqEwWJ3o|album|Tyler, The Creator|4V8LLVI7PbaPR0K2TGSxFF|1|14|Flower Boy|80|2017-07-21
+5mcuyVRQmrRlfFqDDfJI1q|album|U.S. Girls|3AHFDfqhSqPBecjQDIOIJA|1|11|In a Poem Unlimited|48|2018-02-16
+5PQPur1PEZFDkI0AXbxFlB|album|U2|51Blml2LZPmy7TTiAg47vQ|1|12|How To Dismantle An Atomic Bomb|60|2004-01-01
+2cVfcuckyfRP6KVAHsRPHC|album|U2|51Blml2LZPmy7TTiAg47vQ|1|11|No Line On The Horizon|42|2009-01-01
+5y6wlw1LnqFnQFruMeiwGU|album|U2|51Blml2LZPmy7TTiAg47vQ|1|49|The Joshua Tree (Super Deluxe)|75|1987-03-03
+2DFK9pm59cvDaFWKgJVUtk|album|UGK|6ZhjJOJXXwnPS8PrXdmjLw|1|16|UGK 4 Life|41|2009-03-26
+6k16WXh4rKyusIoN00rmpi|album|Usher|23zg3TcAtWQy7J6upgbUnj|1|15|8701|70|2001-08-07
+1RM6MGv6bcl6NrAG8PGoZk|album|Usher|23zg3TcAtWQy7J6upgbUnj|1|21|Confessions (Expanded Edition)|77|2004-03-23
+6A1F3Fkq5dYeYYNkXflcTX|album|Usher|23zg3TcAtWQy7J6upgbUnj|1|22|Raymond v Raymond (Expanded Edition)|71|2010-03-30
+2Qi2SySN2ePZwMLDSv9Krn|album|Vampire Weekend|5BvJzeQpmsdsFp4HGUYUEx|1|12|Modern Vampires of the City|67|2013-05-27
+4pG3bKkbmReDt5QTDn3JDz|album|Van Morrison|44NX2ffIYHr6D4n7RaZF7A|1|8|Astral Weeks|59|1968-11-01
+5h3WJG0aZjNOrayFu3MhCS|album|Vince Staples|68kEuyFKyqrdQQLLsmiatm|1|12|Big Fish Theory|63|2017-06-23
+4Csoz10NhNJOrCTUoPBdUD|album|Vince Staples|68kEuyFKyqrdQQLLsmiatm|1|20|Summertime '06|64|2015-06-30
+2MH37enG6IPvNK5QFLyKes|album|Whitney Houston|6XpaIBNiVzIetEPCWDvAFP|1|10|Whitney Houston|66|1985-02-14
+4bXTYQ8nVBYO4k3C3TOVri|compilation|Whitney Houston|6XpaIBNiVzIetEPCWDvAFP|1|36|Whitney The Greatest Hits|60|2000-05-16
+6tvhmvSirmJUmkcdMx9BTh|album|Wild Beasts|4zrFO6P7G6EZry0pfxMfKT|1|20|Present Tense (Special Edition)|41|2014-10-13
+4yfi9CePcYX0vCXzkMDyDE|album|Wild Beasts|4zrFO6P7G6EZry0pfxMfKT|1|10|Smother|29|2011-05-10
+0EHUUM82UcNrDLWKh7jN8U|album|Wild Beasts|4zrFO6P7G6EZry0pfxMfKT|1|10|Two Dancers|26|2009-09-08
+70k7uiK4ChZKvDWomOwICK|album|William Tyler|3iexGtoBAyCUbxOKeru5py|1|8|Impossible Truth|25|2013-03-19
+5aEtg4dxdBk4pj6SJ3hNsM|album|Willie Nelson|5W5bDNCqJ1jbCgTxDD0Cb3|1|15|Red Headed Stranger|52|1975-05-01
+4eIsAOEVirxfsiQpwbhBpP|album|Willie Nelson|5W5bDNCqJ1jbCgTxDD0Cb3|1|11|Ride Me Back Home|46|2019-06-21
+3FVsJiQMI7dp0RfTBdWtMW|album|XTC|2qT62DYO8Ajb276vUJmvhz|1|15|Skylarking|48|1986
+5VdyJkLe3yvOs0l4xXbWp0|album|XXXTENTACION|15UsOTVnJzReFVN1VCnxy4|1|11|17|87|2017-08-25
+2Ti79nwTsont5ZHfdxIzAm|album|XXXTENTACION|15UsOTVnJzReFVN1VCnxy4|1|18|?|90|2018-03-16
+03Dp6OJS4wd7dI1rRszPwj|album|Young Fathers|5mZC7ndY6oGMxJentRwsuV|1|12|Cocoa Sugar|51|2018-03-09
+1xy141zMRluP7YaE94IawT|album|Zac Brown Band|6yJCxee7QumYr820xdIsjo|1|16|JEKYLL + HYDE|70|2015-04-28
+0Im5nUhAuNDSYVjfPh7RyS|album|Zac Brown Band|6yJCxee7QumYr820xdIsjo|1|12|The Foundation|74|2008-11-17
+0AXoQGOZDaYSaOo0qCTiCr|album|Zac Brown Band|6yJCxee7QumYr820xdIsjo|1|16|You Get What You Give (Deluxe)|68|2010-09-20

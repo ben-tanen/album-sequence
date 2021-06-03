@@ -1,4 +1,5 @@
 *.gdoc
 .DS_Store
 .cache*
+code/.ipynb_checkpoints/
 data/api-keys.json
